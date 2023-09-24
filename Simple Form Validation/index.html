@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/script.js"></script>
+    <script src="./js/main.js"></script>
+    <style>
+      .drop-area {
+        width: 500px;
+        height: 120px;
+        border: 2px dashed #ccc;
+        border-radius: 5px;
+        padding: 20px;
+        text-align: center;
+        font-size: 18px;
+      }
+    </style>
+</head>
+
+<body onunload="show()">
+    <div class="layout">
+      <form onsubmit="store()">
+        <h1 class="txt1" style="text-align: center;color: rgb(46, 46, 46);">Job Application Form</h1>
+        <h5 class="txt1" style="text-align: center;color: rgb(43, 43, 43);">Please Fill Out the Form Below to Submit Your Application !</h4>
+        <hr>
+        <div style="display: flex;">
+          <div>
+            <Label class="txt2">Name</Label><span>*</span><br>
+            <input id="r0" class="inputbox" type="text" name="fname" required oninput="validate()">
+            <label class="txt3">First Name</label required>
+          </div>
+          <div >
+            <br>
+            <input id="r1"  class="inputbox" type="text" name="lname" required oninput="validate()">
+            <label class="txt3">Last Name</label>
+           </div>
+        </div>
+        <br><br>
+
+
+        <div style="display: flex;">
+          <div >
+            <Label class="txt2">E-mail</Label><span>*</span><br>
+            <input id="r2" class="inputbox" type="email" name="mail" oninput="validate()" required>
+            <label class="txt3">example@example</label>
+          </div>
+          <div >
+            <Label class="txt2">Phone Number</Label><span>*</span><br>
+            <input id="r3" class="inputbox" type="tel" name="contact" required oninput="validate()">
+          </div>
+        </div>
+
+      
+        <div>
+          <br>
+          <label class="txt2">Gender</label><br>
+            <input class="gendervalue" type="radio" name="gender"  value="Male" placeholder="Male"><label>Male</label><br>
+            <input class="gendervalue" type="radio" name="gender" value="Female"><label>Female</label><br>
+            <input class="gendervalue" type="radio" name="gender" value="Transgender"><label>Transgender</label><br>
+        </div>
+        <br>
+
+
+        <div>
+            <label class="txt2">Current City</label><br><br>
+            <select name="Currentcity">
+              <option class="txt3" value="Khammam">Khammam</option>
+              <option class="txt3" value="Hyderabad">Hyderabad</option>
+            </select>
+        </div>
+        <br><br>
+
+        <div style="display: flex;">
+          <div>
+            <Label class="txt2">Applied Position</Label><br><br>
+            <input id="r4" class="inputbox" type="text" name="Position" oninput="validate()">
+          </div>
+          <div>
+            <label class="txt2">Earliest Possible Start Date</label><br><br>
+            <input class="inputbox" type="date" name="startdate" placeholder="MM-DD-YY"><br>
+            <label class="txt3">Date</label>
+          </div>
+        </div>
+        <br>
+        <div style="display: flex;">
+          <div>
+            <label class="txt2">Preferred Interview Date</label><br><br>
+            <input class="inputbox" type="date" id="preferredDate" placeholder="MM-DD-YYYY">
+          </div>
+          
+          <script>
+            
+          </script>
+          
+          <div class="slotselect" style="display: none;">
+            <br>
+            <label class="txt2" id="selectdate">MM-DD-YYYY</label><br><br>
+            <input class="slot" type="button" name="Slottime" value="11:30AM">
+            <input class="slot" type="button" name="Slottime" value="12:30PM"><br>
+            <input class="slot" type="button" name="Slottime" value="01:30PM">
+            <input class="slot" type="button" name="Slottime" value="04:30PM"><br>
+            <input class="slot" type="button" name="Slottime" value="05:30PM">
+            <input class="slot" type="button" name="Slottime" value="06:30PM">
+          </div>
+        </div>
+        <br>
+        <br><br>
+        <div>
+          <label class="txt2">Upoad Resume</label><span>*</span>
+          <br><br>
+          <div>
+              <div class="drop-area" id="dropArea" align="center" >
+                <img src="./images/upload.png" width="50px" height="50px">
+                <p class="txt2" style="margin: 0px;">Upload a File</p>
+                <p class="txt3">Drag and Drop files here</p>
+              </div>
+
+              <script>
+                  var dropArea = document.getElementById('dropArea');
+                  dropArea.addEventListener('dragover', function(event) {
+                  event.preventDefault();
+                  });
+                  dropArea.addEventListener('drop', function(event) {
+                  event.preventDefault();
+
+                  var file = event.dataTransfer.files[0];
+
+                  if (file) {
+                      var fileInfo = document.createElement('p');
+                      fileInfo.className="txt3";
+                      fileInfo.textContent = 'File name: ' + file.name + ', File size: ' + file.size + ' bytes';
+                      dropArea.innerHTML = '';
+                      dropArea.appendChild(fileInfo);
+                  }
+                  });
+              </script>
+          </div>
+        </div>
+        <br>
+        <hr>
+        <div align="center">
+          <input type="submit" value="APPLY" style="width: 100px;height: 40px;" >
+        </div>
+      </form>
+    </div>
+</body>
+</html>
