@@ -1,0 +1,36 @@
+
+.layout{
+    width: 500px;
+    height: 520px;
+    margin-top:10%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+p
+{
+    text-align: right;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color:yellow;
+}
+input{
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+button{
+    margin-top: 10px;
+    margin-right: 5px;
+    width: 100px;
+    height: 40px;
+    border-radius: 0%;
+}
+h3{
+    padding-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 4px;
+    color: yellow;
+}
+label
+{
+    color: yellow;
+}

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <div class="layout">
+        <div class="layout2">
+            <div style="display: flex;">
+                <div class="hh"></div>
+                <h1>USER FORM</h1>
+                <div class="hh" style="margin-left: -60px;margin-right: -7px;width: 290px;"></div></div>
+            <form>
+                
+                <div class="ll">
+                    <br>
+                <br>
+                    <ul>
+                        <li>FIRST NAME</li>
+                        <br>
+                        <br>
+                        <li>PASSWORD</li>
+                        <br>
+                        <br>
+                        <li>GENDER</li>
+                        <br>
+                        <br>
+                        <li>ADDRESS</li>
+                        <br>
+                        <br>
+                        <br>
+                        <li>D.O.B</li>
+                        <br>
+                        <br>
+                        <li>SELECT GAME</li>
+                        <br>
+                        <br>
+                        <LI>MARITAL STATUS</LI>
+                    </ul>
+                </div>
+                <diV>
+                    <br>
+                <br>
+                <br>
+                    <input type="text" id="name">
+                    <br>
+                    <br>
+                    <br>
+                    <input type="password" id="pass">
+                    <br>
+                    <br>
+                    <input type="radio" id="gender" name="gender" value="male"><label>Male</label>
+                    <input type="radio" id="gender" name="gender" value="female"><label>Female</label>
+                    <br>
+                    <br>
+                    <textarea ></textarea>
+                    <br>
+                    <br>
+                    <br>
+                    <select id="age" style="width: 100px;height: 35px;">
+                        <script>
+                            var i=18;
+                            while(i<100)
+                            {
+                                const s=document.createElement("option");
+                                s.value=i;
+                                
+                                s.innerHTML=i;
+                                document.getElementById('age').appendChild(s);
+                                i++;
+                                
+                            }
+                        </script>
+                    </select>
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <input type="checkbox" name="Game" value="Hockey"><label>Hockey</label>
+                    <input type="checkbox" name="Game" value="Football"><label>Football</label>
+                    <input type="checkbox" name="Game" value="Badminton"><label>Badminton</label>
+                    <input type="checkbox" name="Game" value="Cricket"><label>Cricket</label>
+                    <input type="checkbox" name="Game" value="volleyball"><label>volleyball</label>
+                    <br>
+                    <br>
+                    <br>
+                    <input type="radio" id="marriage" name="marriage" value="married"><label>Married</label>
+                    <input type="radio" id="marriage" name="marriage" value="unmarried"><label>Unmarried</label>
+                    <br>
+                    <br>
+                    
+                    <input class="but" type="submit" value="Submit">
+                    <input class="but" type="reset" value="Reset">
+                    <br>
+                    <br>
+                    <br>
+                    <input type="checkbox" ><label>I accept this agrement</label>
+                            
+                </div>
+            </form>
+        </div>
+
+</body>
+
+</html>
