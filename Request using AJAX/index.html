@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/data.js"></script>
+</head>
+<body>
+    <div>
+        <nav>
+            <div id="buttons">
+              <button style="background-color: white;border: none;border-radius: 10px;padding: 8px;" onclick="adduser()"><img src="./images/invite.png" width="30px" height="28px"></button>
+              <button style="background-color: white;border: none;border-radius: 10px;padding: 8px;" onclick="fetchUsers()"><img src="./images/binoculars.png" width="30px" height="28px"></button>
+            </div>
+        </nav>
+    </div>
+    <div class="table-container">
+        <table id="myTable" class="beautiful-table">
+            <thead>
+                <tr data-row-id="1">
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody id="listdata">
+                <!-- Rows will be added dynamically -->
+            </tbody>
+        </table>
+    </div>
+    <div id="popup" class="popup">
+        <div class="popup-content" id="add45">
+            <h2>Edit Your Details</h2>
+            
+            <table>
+                <tr>
+                    <td style="width: 100px;">
+                        <label for="newName">Name:</label>
+                    </td>
+                    <td>
+                        <input type="text" id="newName" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="newAge">Age:</label>
+                    </td>
+                    <td>
+                        <input type="number" id="newAge" required>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <label for="newEmail">State</label>
+                    </td>
+                    <td>
+                        <select id="newEmail">
+                            <option value="" disabled selected>Select State</option>
+                            <option value="Andhra Pradesh">Andhra Pradesh</option>
+                            <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                            <option value="Assam">Assam</option>
+                            <option value="Bihar">Bihar</option>
+                            <option value="Chhattisgarh">Chhattisgarh</option>
+                            <option value="Goa">Goa</option>
+                            <option value="Gujarat">Gujarat</option>
+                            <option value="Haryana">Haryana</option>
+                            <option value="Himachal Pradesh">Himachal Pradesh</option>
+                            <option value="Jharkhand">Jharkhand</option>
+                            <option value="Karnataka">Karnataka</option>
+                            <option value="Kerala">Kerala</option>
+                            <option value="Madhya Pradesh">Madhya Pradesh</option>
+                            <option value="Maharashtra">Maharashtra</option>
+                            <option value="Manipur">Manipur</option>
+                            <option value="Meghalaya">Meghalaya</option>
+                            <option value="Mizoram">Mizoram</option>
+                            <option value="Nagaland">Nagaland</option>
+                            <option value="Odisha">Odisha</option>
+                            <option value="Punjab">Punjab</option>
+                            <option value="Rajasthan">Rajasthan</option>
+                            <option value="Sikkim">Sikkim</option>
+                            <option value="Tamil Nadu">Tamil Nadu</option>
+                            <option value="Telangana">Telangana</option>
+                            <option value="Tripura">Tripura</option>
+                            <option value="Uttar Pradesh">Uttar Pradesh</option>
+                            <option value="Uttarakhand">Uttarakhand</option>
+                            <option value="West Bengal">West Bengal</option>
+                          
+                        </select>
+                    </td>
+                </tr>
+            </table>
+            
+            <button id="updateButton">Update</button>
+            <button id="deleteButton">Delete</button>
+            <button id="closeButton">Cancel</button>
+            <button id="addButton">ADD</button>
+        </div>
+    </div>
+
+    <script src="./js/scripts.js"> </script>
+</body>
+</html>
