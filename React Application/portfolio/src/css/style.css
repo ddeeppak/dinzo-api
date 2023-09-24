@@ -1,0 +1,95 @@
+body
+{
+ background-color:#f3d9fa;
+}
+.Logo{
+ 
+  padding:0px;
+  display: flex;
+}
+nav{
+  background-color:#da77f2;
+  padding:10px;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+.M2{
+  display:flex;
+  margin: auto
+}
+.imag
+{
+  padding-top: 40px;
+  padding-left: 50px;
+}
+.imag2
+{
+  padding-top: 130px;
+  padding-left: 100px;
+}
+.medias
+{
+padding:20px;
+display: flex;
+}
+.company
+{
+  background-color:#ae3ec9;
+  padding:6px;
+  font-family: sans-serif;
+  font-weight: lighter;
+  font-size: smaller;
+}
+Footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #be4bdb;
+  color: white;
+  text-align: center;
+}
+.navi23
+{
+  width: 240px;
+  height: 20px;
+  margin-top: 1px;
+  margin-left: auto;
+  margin-right: 0px;
+  display:flex;
+}
+.vr
+{
+  padding-right: 5px;
+  padding-left: 5px;
+  border-right: 2px solid black;
+}
+a{
+  text-decoration: none;
+}
+.box2
+{
+  height: 60px;
+  display: flex;
+}
+.txt3
+{
+  color: #9205b6;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+.txt4
+{
+  color: #a71fc9;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight:lighter;
+  margin: 5px;
+}
+.cmp{
+  margin-top: auto;
+  margin-bottom: auto;
+  color: #a71fc9;
+  font-size: 20px;
+}
