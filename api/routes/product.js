@@ -27,13 +27,14 @@ const product = require('../controllers/product');
 
 
 routes.get('/',get_all_product.product_get_all);
-routes.get('/search/:search',product.search);
+
 routes.get('/category/:category',product.getByCategory);
+routes.get('/season/:season',product.getBySeason);
 
 routes.post('/',checkout,add_pro.add_product);
 
 
-routes.get('/:productid',checkout,get_one.get_oneprodect);
+routes.get('/:productid',get_one.get_oneprodect);
 
 routes.delete('/:productid',checkout,delete_pro.delete_product);
 

@@ -19,7 +19,7 @@ app.use((req, res, next) => {
 
 // Routes imports
 const order = require('./api/routes/order');
-const product = require('./api/routes/product');
+const products = require('./api/routes/product');
 const signin = require('./api/routes/sign');
 const login = require('./api/routes/login');
 
@@ -29,17 +29,32 @@ mongoose.connect('mongodb+srv://p2003deepak:ZaTUZd5Spdg8xu5w@webdata.ochtczt.mon
     useUnifiedTopology: true
 });
 
-
+const Product = require('./api/modules/product'); 
+const {search} = require('./api/controllers/product');
 
 app.use('/uploads', express.static('uploads'));
 app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-app.use('/products', product);
+app.use('/product', products);
 app.use('/orders', order);
 app.use('/signin', signin);
 app.use('/login', login);
+app.get('/search/:search',search);
+app.get('/trendingproducts', async (req, res) => {
+    try {
+        const trendingProducts = await Product.find({ trending: true })
+            .select("_id name price rating updatedAt imageUrl")
+            .exec();
+        res.status(200).json(trendingProducts);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'Internal server error' });
+    }
+});
+app.get('/category/:category',)
+
 
 // Error handling middleware
 app.use((req, res, next) => {

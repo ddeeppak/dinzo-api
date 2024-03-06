@@ -15,11 +15,13 @@
   "author": "Prajapathi Deepak",
   "license": "ISC",
   "dependencies": {
+    "@google-cloud/storage": "^7.7.0",
+    "aws-sdk": "^2.1570.0",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "express": "^4.18.2",
+    "express": "^4.18.3",
     "jsonwebtoken": "^9.0.1",
-    "mongoose": "^7.4.3",
+    "mongoose": "^7.6.9",
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1"
   },

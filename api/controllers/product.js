@@ -2,22 +2,27 @@ const Product = require('../modules/product');
 
 const getByCategory = (req, res, next) => {
     const category = req.params.category;
-    Product.find({ category: category })
-        .select("_id name price rating updatedAt")
-        .exec()
-        .then(docs => {
-            if (docs.length > 0) {
-                res.status(200).json(docs);
-            } else {
-                res.status(404).json({ message: "No products found for this category." });
-            }
-        })
-        .catch(err => {
-            console.error(err);
-            res.status(500).json({ error: err });
-        });
+    const regex = new RegExp(category, 'i');
+    Product.find({
+        $or: [
+            { description: regex },  
+            { category: regex }
+        ] 
+    })
+    .select("_id name price imageUrl rating updatedAt")
+    .exec()
+    .then(docs => {
+        if (docs.length > 0) {
+            res.status(200).json(docs);
+        } else {
+            res.status(404).json({ message: "No products found for this category." });
+        }
+    })
+    .catch(err => {
+        console.error(err);
+        res.status(500).json({ error: err.message }); // Respond with error message
+    });
 };
-
 
 const search = (req, res, next) => {
     const searchWord = req.params.search;
@@ -32,7 +37,7 @@ const search = (req, res, next) => {
             { color: regex }
         ]
     })
-    .select("_id name price rating updatedAt")
+    .select("_id name imageUrl price rating updatedAt")
     .exec()
     .then(docs => {
         if (docs.length > 0) {
@@ -48,7 +53,30 @@ const search = (req, res, next) => {
 };
 
 
+const getBySeason = (req, res, next) => {
+    const season = req.params.season;
+    const regex = new RegExp(season, 'i');
+    Product.find({
+        season:regex
+    })
+    .select("_id name price imageUrl rating updatedAt")
+    .exec()
+    .then(docs => {
+        if (docs.length > 0) {
+            res.status(200).json(docs);
+        } else {
+            res.status(404).json({ message: "No products found for this category." });
+        }
+    })
+    .catch(err => {
+        console.error(err);
+        res.status(500).json({ error: err.message }); // Respond with error message
+    });
+};
+
+
 module.exports = {
     getByCategory,
+    getBySeason,
     search
 };

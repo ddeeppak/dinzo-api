@@ -1,4 +1,5 @@
 const fs = require('fs');
+const AWS = require('aws-sdk');
 const mongoose = require('mongoose');
 const Product = require('./api/modules/product');
 
@@ -9,7 +10,9 @@ mongoose.connect('mongodb+srv://p2003deepak:ZaTUZd5Spdg8xu5w@webdata.ochtczt.mon
   useUnifiedTopology: true
 });
 
-// Read data from JSON file
+
+
+
 fs.readFile(jsonpath, 'utf8', async (err, data) => {
   if (err) {
     console.error('Error reading file:', err);
@@ -21,13 +24,15 @@ fs.readFile(jsonpath, 'utf8', async (err, data) => {
 
     for (const productData of products) {
       try {
-        const product = new Product({
+          const imageUrl = productData.imageUrl;
+          const product = new Product({
           _id: new mongoose.Types.ObjectId(),
           name: productData.name,
           price: productData.price,
           description: productData.description,
           category: productData.category,
           imageUrl: productData.imageUrl,
+          imageName: productData.imageUrl,
           stockQuantity: productData.stockQuantity,
           tags: productData.tags,
           brand: productData.brand,
@@ -40,17 +45,19 @@ fs.readFile(jsonpath, 'utf8', async (err, data) => {
           promotion: productData.promotion,
           material: productData.material,
           type: productData.type,
-          season: productData.season
+          season: productData.season,
+          trending: productData.trending,
+          newarrivel: productData.newarrivel
         });
-
+        console.log("Product Saved : ",product.name);
         await product.save();
-        console.log('Product saved:', product.name);
+
+
       } catch (error) {
         console.error('Error saving product:', error);
       }
     }
-
-    // Count total products saved in the database
+    // await Product.deleteMany({});
     const totalProductsInDatabase = await Product.countDocuments();
     console.log('Total products saved in database:', totalProductsInDatabase);
   } catch (error) {

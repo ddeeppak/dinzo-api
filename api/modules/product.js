@@ -30,7 +30,7 @@ const productSchema = new mongoose.Schema({
     },
     tags: [String],
     brand: String,
-    color: String,
+    color: [String],
     size: String,
     rating: Number,
     isFeatured: Boolean,
@@ -39,7 +39,16 @@ const productSchema = new mongoose.Schema({
     promotion: String,
     material: String,
     type: String,
-    season: [String]
+    imageName:String,
+    season: [String],
+    trending: {
+        type: Boolean,
+        default: false
+    },
+    newarrivel: {
+        type: Boolean,
+        default: false
+    }
 });
 
 module.exports = mongoose.model('Product',productSchema);
