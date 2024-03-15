@@ -1,5 +1,2551 @@
 [
     {
+        "name":"Men's Blazer ",
+        "price":  2999,
+        "description":"Men Blazers",
+        "category":["blazers","clothing"],
+        "color":"black ",
+        "imageUrl":"1mb.jpg",
+        "tags":["blazers"," black "," regular fit","men blazers","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men's Slim Fit Blazer ",
+        "price":  3039,
+        "description":"Men Blazers",
+        "category":["blazers","clothing"],
+        "color":" dark blue",
+        "imageUrl":"2mb.jpg",
+        "tags":["blazers"," black ","blue"," slim fit","men blazers","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.7,
+        "season":["Spring","Summer","winter"]
+    },
+    
+    {
+        "name":" Men's Solid Regular Blazer",
+        "price":  2199,
+        "description":"Men Blazers",
+        "category":["blazers","clothing"],
+        "color":" black",
+        "imageUrl":"3mb.jpg",
+        "tags":["blazers"," black "," regular fit","men blazers","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    
+    {
+        "name":" Men's Tailored Regular Fit Velvet ",
+        "price":  3000,
+        "description":"Men Blazers",
+        "category":["blazers","clothing"],
+        "color":"pink ",
+        "imageUrl":"4mb.jpg",
+        "tags":["blazers"," pink "," regular fit","men blazers","formal","velvet"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men's Regular Fit Tuxedo Blazer ",
+        "price":  2999,
+        "description":"Men Blazers",
+        "category":["blazers","clothing"],
+        "color":"green ",
+        "imageUrl":"5mb.jpg",
+        "tags":["blazers"," green "," regular fit","men blazers","formal","velvet"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    }
+,
+    {
+        "name":"Winter Jacket for Men Quilted Hooded Winter Jackets for Men  ",
+        "price": 1499 ,
+        "description":"Men Jackets",
+        "category":["jackets","clothing"],
+        "color":" black",
+        "imageUrl":"1mj.jpg",
+        "tags":["jackets","black  "," regular fit","men jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Men's Full Sleeve Regular Fit Denim Coat ",
+        "price":  799,
+        "description":"Men Jackets",
+        "category":["jackets","clothing"],
+        "color":"black ",
+        "imageUrl":"2mj.jpg",
+        "tags":["jackets"," black ","denim"," regular fit","men jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Mens Lightweight Hooded Jacket ",
+        "price":  749,
+        "description":"Men Jackets",
+        "category":["jackets","clothing"],
+        "color":"grey ",
+        "imageUrl":"3mj.jpg",
+        "tags":["jackets"," grey ","casual fit","men jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Men Windbreake749r ",
+        "price": 749 ,
+        "description":"Men Jackets",
+        "category":["jackets","clothing"],
+        "color":" blue",
+        "imageUrl":"4mj.jpg",
+        "tags":["jackets"," blue "," regular fit","men jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Full Sleeve Polyester Full Zip with Pocket Solid Men's jacket",
+        "price":  525,
+        "description":"Men Jackets",
+        "category":["jackets","clothing"],
+        "color":"black ",
+        "imageUrl":"5mj.jpg",
+        "tags":["jackets","black  ","casual fit","men jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter"]
+    }
+,
+    {
+        "name":"Lymio Men Jeans",
+        "price":799,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue,black",
+        "imageUrl":"1j.jpg",
+        "tags":["jeans","denim","blue","black","Cotton","men jeans","baggy jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer"]
+        
+    },
+    
+    {
+        "name":"Amazon Brand - Symbol Men Cotton Rich Stretch Jeans",
+        "price":754,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"mid grey",
+        "imageUrl":"2j.jpg",
+        "tags":["jeans","denim","grey","Cotton","men jeans","strechable jeans"],
+        
+        "size":"S,M,L,XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Levi's Men's 512 Slim Tapered Fit Mid Rise Stretchable Jeans",
+        "price":1304,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"ligth indigo",
+        "imageUrl":"3j.jpg",
+        "tags":["jeans","denim","blue","indigo","Cotton","men jeans","strechable jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Jack & Jones Men's Slim Fit Mid-Rise Jeans",
+        "price":839,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"dark blue denim",
+        "imageUrl":"4j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","slim fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Levi's Men's 512 Slim Tapered Fit Stretchable Jeans",
+        "price":1649,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"5j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","strechable jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"KETCH Men Tapered Fit Mid-Rise Jeans",
+        "price":416,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"6j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","tapered fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.7,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"GRECIILOOKS Men Casual Pants",
+        "price":799,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue,black",
+        "imageUrl":"7j.jpg",
+        "tags":["jeans","denim","black","Cotton","men jeans","casual pants","baggy jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.3,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Levi's Men's 511 Slim Fit Mid Rise Stretchable Jeans",
+        "price":1884,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"mid indigo",
+        "imageUrl":"8j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","strechable jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.7,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Giordano Men's Slim Fit Mid-Rise Clean Look Stretchable 5-Pocket Regular Length Casual Cotton Blended Denim Jeans",
+        "price":1319,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"light grey",
+        "imageUrl":"9j.jpg",
+        "tags":["jeans","denim","grey","Cotton","men jeans","casual pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.8,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Jack & Jones Men's Regular Fit Mid-Rise Jean",
+        "price":999,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"dark blue denim",
+        "imageUrl":"10j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","regular fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.9,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"KARGEENS Men Men's Jeans Pant Slim Fit Stretchable Casual Wear Low Rise Cotton Blend Denim",
+        "price":679,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"brown",
+        "imageUrl":"11j.jpg",
+        "tags":["jeans","denim","brown","Cotton","men jeans","strechable jeans","casual pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Peter England Men's Comfort Skinny Jeans",
+        "price":959,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"12j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","comfort","skinny jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"KOTTY Men's Cotton Lycra Blend Relaxed Fit Mid Rise Jeans",
+        "price":459,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"13j.jpg",
+        "tags":["jeans","denim","black","Cotton","men jeans","relaxed fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Ben Martin Men's Denim Slim Fit Strechable Jeans",
+        "price":649,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"grey",
+        "imageUrl":"14j.jpg",
+        "tags":["jeans","denim","grey","Cotton","men jeans","strechable jeans","slim fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"The Indian Garage Co Men Jeans",
+        "price":668,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"grey",
+        "imageUrl":"15j.jpg",
+        "tags":["jeans","denim","grey","Cotton","men jeans","comfort"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Urbano Plus Men's Regular Fit Washed Jeans Stretchable",
+        "price":830,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"16j.jpg",
+        "tags":["jeans","denim","black","Cotton","men jeans","regular fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.8,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"KETCH Men Tapered Fit Mid-Rise Jeans",
+        "price":524,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"17j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","tapered fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Urbano Fashion Men's Slim Fit Jogger Jeans Stretchs",
+        "price":899,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"grey",
+        "imageUrl":"18j.jpg",
+        "tags":["jeans","denim","grey","Cotton","men jeans","jogger jeans","slim fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.6,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Amazon Brand - INKAST Men's Slim Tapered Stretch Jeans",
+        "price":649,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"19j.jpg",
+        "tags":["jeans","denim","blue","Cotton","men jeans","strechable jeans","tapered fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Selvia Men's Solid Lycra Full Elastic Jogger Track Pant",
+        "price":164,
+        "description":"Men Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"20j.jpg",
+        "tags":["jeans","denim","black","Cotton","men jeans","jogger jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.1,
+        "season":["Spring","Summer","winter"]
+        
+    }
+,
+    {
+        "name":" Men's High Visibility Cotton jumpsuit",
+        "price": 1249,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"grey ",
+        "imageUrl":"1mjs.jpg",
+        "tags":["jumpsuit"," grey","men jumpsuit","cottin","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.1 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Pure Cotton Half Sleeves Red Small Size Work Wear ",
+        "price": 1399,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" red",
+        "imageUrl":"2mjs.jpg",
+        "tags":["jumpsuit","red ","men jumpsuit","cotton","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.8,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Pure Cotton Full Sleeves ",
+        "price":1499 ,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"orange & blue ",
+        "imageUrl":"3mjs.jpg",
+        "tags":["jumpsuit","orange ","blue","men jumpsuit","cotton","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Cotton Coverall for Industrial and Protective Use ",
+        "price": 1299,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" orange",
+        "imageUrl":"4mjs.jpg",
+        "tags":["jumpsuit","orange ","men jumpsuit","cotton","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Associated Uniforms Men's 100% Cotton Industrial Work suit",
+        "price": 999,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"dark grey ",
+        "imageUrl":"5mjs.jpg",
+        "tags":["jumpsuit","grey ","men jumpsuit","comfort","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Men's Denim Bib Overalls Fashion Slim Fit Jumpsuit",
+        "price": 7993,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" dark blue",
+        "imageUrl":"6mjs.jpg",
+        "tags":["jumpsuit"," blue","men jumpsuit","denim","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Denim Bib Overalls Fashion Slim Fit Jumpsuit ",
+        "price": 8111,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"light blue ",
+        "imageUrl":"7mjs.jpg",
+        "tags":["jumpsuit"," blue","men jumpsuit","denim","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Cotton Coverall for Industrial and Protective Use ",
+        "price": 1299,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"orange ",
+        "imageUrl":"8mjs.jpg",
+        "tags":["jumpsuit"," orange","men jumpsuit","cotton","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Bib Overalls Slim Fit Adjusted Straps Straight Legs suit ",
+        "price": 3059,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" blue & white",
+        "imageUrl":"9mjs.jpg",
+        "tags":["jumpsuit"," blue","white","men jumpsuit","nylon","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Men's Cotton Industrial Work WEAR Industrial ",
+        "price": 999,
+        "description":"Men jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"sky blue",
+        "imageUrl":"10mjs.jpg",
+        "tags":["jumpsuit","blue ","men jumpsuit","cotton","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.2,
+        "season":["Spring","winter"]
+    }
+,
+    {
+        "name":"Generic",
+        "price":750,
+        "description":"Native Bull White Casual Printed Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"white",
+        "imageUrl":"2.jpg",
+        "tags":["shirt","white","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.8,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"IndoPrimo",
+        "price":550,
+        "description":"Men's Regular Fit Checks Cotton Casual Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"navy blue",
+        "imageUrl":"3.jpg",
+        "tags":["shirt","blue","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL",
+        "rating":3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Lymio",
+        "price":400,
+        "description":"Casual Shirt for Men",
+        "category":["T-shirt","clothing"],
+        "color":"blue",
+        "imageUrl":"4.jpg",
+        "tags":["shirt","blue","T-shirt","Cotton","men shirt","formal","stylish"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","Summer"]
+        
+    },
+  
+    {
+        "name":"Dennis Lingo",
+        "price":499,
+        "description":"Men's Solid Slim Fit Cotton Casual Shirt",
+        "category":["shirt","clothing"],
+        "color":"green",
+        "imageUrl":"5.jpg",
+        "tags":["shirt","green","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.8,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"GRECIILOOKS",
+        "price":399,
+        "description":"Men Casual Shirt",
+        "category":["shirt","clothing"],
+        "color":"gray",
+        "imageUrl":"6.jpg",
+        "tags":["shirt","white","T-shirt","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.9,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Lymio",
+        "price":470,
+        "description":"Casual Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"khakhi",
+        "imageUrl":"7.jpg",
+        "tags":["shirt","white","khakhi","Cotton","men shirt","casual","stylish"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.3,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"IndoPrimo",
+        "price":490,
+        "description":"Men's Cotton Casual Regular Fit Small Checks Shirt",
+        "category":["shirt","clothing"],
+        "color":"red",
+        "imageUrl":"8.jpg",
+        "tags":["shirt","checks shirt","red","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"The Indian Garage Co Men's Shirt",
+        "price":450,
+        "description":"Men's Shirt",
+        "category":["shirt","clothing"],
+        "color":"navy blue",
+        "imageUrl":"9.jpg",
+        "tags":["shirt","white","checks shirt","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Dennis Lingo",
+        "price":599,
+        "description":"Men's Checkered Slim Fit Cotton Casual Shirt",
+        "category":["shirt","clothing"],
+        "color":"dusty blue",
+        "imageUrl":"10.jpg",
+        "tags":["shirt","blue","Cotton","men shirt","formal","checks shirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.8,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"GRECIILOOKS",
+        "price":399,
+        "description":"Men Casual Shirt",
+        "category":["shirt","clothing"],
+        "color":"white",
+        "imageUrl":"11.jpg",
+        "tags":["shirt","white","T-shirt","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.6,
+        "season":["Spring","Summer"]
+        
+    },
+    
+    {
+        "name":"Leriya Fashion",
+        "price":449,
+        "description":"Textured Shirts for Men ",
+        "category":["shirt","clothing"],
+        "color":"green",
+        "imageUrl":"12.jpg",
+        "tags":["shirt","white","green","Cotton","men shirt","casual","stylish"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer0","winter"]
+        
+    },
+    {
+        "name":"U-TURN",
+        "price":400,
+        "description":"Men's Cotton Solid Formal/Semi Formal Shirt",
+        "category":["shirt","clothing"],
+        "color":"grey",
+        "imageUrl":"13.jpg",
+        "tags":["shirt","grey","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Pinkmint",
+        "price":299,
+        "description":"Casual Shirt for Men Regular Fit Long Soild Sleeve Shirt",
+        "category":["shirt","clothing"],
+        "color":"black",
+        "imageUrl":"14.jpg",
+        "tags":["shirt","black","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"The Indian Garage Co Men's Shirt",
+        "price":537,
+        "description":"Men's Shirt",
+        "category":["shirt","clothing"],
+        "color":"black and green",
+        "imageUrl":"15.jpg",
+        "tags":["shirt","white","checks shirt","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.8,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Dennis Lingo",
+        "price":450,
+        "description":"Men's Solid Slim Fit Casual Shirt, Full Sleeve Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"sky blue",
+        "imageUrl":"16.jpg",
+        "tags":["shirt","blue","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL",
+        "rating":3.8,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"U-TURN",
+        "price":378,
+        "description":"Casual Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"white lgreen",
+        "imageUrl":"17.jpg",
+        "tags":["shirt","white","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.6,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"U.S. POLO ASSN.",
+        "price":1124,
+        "description":"Men Shirt",
+        "category":["shirt","clothing"],
+        "color":"marron",
+        "imageUrl":"18.jpg",
+        "tags":["shirt","marron","checks shirt","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.8,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"TURMS",
+        "price":1999,
+        "description":"Anti Stain Anti Odor Shirt for Men ",
+        "category":["shirt","clothing"],
+        "color":"white",
+        "imageUrl":"19.jpg",
+        "tags":["shirt","white","Cotton","men shirt","formal","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"TURMS",
+        "price":1999,
+        "description":"TURMS Anti Stain Anti Odor Shirt for Men ",
+        "category":["shirt","clothing"],
+        "color":"beige",
+        "imageUrl":"20.jpg",
+        "tags":["shirt","beige","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Levi's",
+        "price":1209,
+        "description":"Men's All Over Printed Slim Fit Shirt",
+        "category":["shirt","clothing"],
+        "color":"peppy red",
+        "imageUrl":"21.jpg",
+        "tags":["shirt","red","checks shirt","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL",
+        "rating":3.8,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Lymio",
+        "price":349,
+        "description":"Casual Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"blue",
+        "imageUrl":"22.jpg",
+        "tags":["shirt","white","blue","Cotton","men shirt","casual","stylish"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.7,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Van Heusen",
+        "price":900,
+        "description":"Men Shirt",
+        "category":["shirt","clothing"],
+        "color":"brown",
+        "imageUrl":"23.jpg",
+        "tags":["shirt","brown","Cotton","men shirt","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.7,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Allen Solly",
+        "price":1049,
+        "description":"Men's Slim Fit Shirt",
+        "category":["shirt","clothing"],
+        "color":"white",
+        "imageUrl":"24.jpg",
+        "tags":["shirt","white","Cotton","men shirt","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.7,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"LookMark",
+        "price":299,
+        "description":"Men's Cotton Blend Stitched Solid Half Sleeve Shirt",
+        "category":["shirt","clothing"],
+        "color":"blue",
+        "imageUrl":"25.jpg",
+        "tags":["shirt","white","blue","Cotton","men shirt","formal","checks shirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Lymio",
+        "price":349,
+        "description":"Casual Shirt for Men",
+        "category":["shirt","clothing"],
+        "color":"cream",
+        "imageUrl":"26.jpg",
+        "tags":["shirt","cream","Cotton","men shirt","casual","stylish"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","Summer"]
+        
+    }
+    
+    
+
+,
+    {
+        "name":" Mens Aero KnitWalking Shoe ",
+        "price":  1139,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":" black",
+        "imageUrl":"1ms.jpg",
+        "tags":["shoes"," black ","cotton","men shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Unisex-Adult Gel-Peake 2 Track and Field Cricket Shoe ",
+        "price": 6999 ,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":"white ",
+        "imageUrl":"2ms.jpg",
+        "tags":["shoes"," white ","cotton ","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.7,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Mens T-02 Running Shoes ",
+        "price":  749,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":" brown",
+        "imageUrl":"3ms.jpg",
+        "tags":["shoes"," brown "," cotton","running shoe","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" mens Snatch V2 Sneaker ",
+        "price":  1799,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":"black ",
+        "imageUrl":"4ms.jpg",
+        "tags":["shoes","black  "," cotton","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Unisex-Adult Duke Running Shoe ",
+        "price":  1599,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":" white",
+        "imageUrl":"5ms.jpg",
+        "tags":["shoes"," white ","cotton ","running shoe","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Mens 6082-02 Running Shoe ",
+        "price":  499,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":" black",
+        "imageUrl":"6ms.jpg",
+        "tags":["shoes"," black ","cotton ","running shoe","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Mens Junia 3.0 LACE UP ",
+        "price":  2999,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":"grey ",
+        "imageUrl":"7ms.jpg",
+        "tags":["shoes"," grey ","nylon ","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.7 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Mens Rentso Sneaker ",
+        "price": 5499 ,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":"white ",
+        "imageUrl":"8ms.jpg",
+        "tags":["shoes","white  ","nylon ","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.5,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Mens Bronel 3.0Sneaker ",
+        "price":  2155,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":" grey",
+        "imageUrl":"9ms.jpg",
+        "tags":["shoes"," grey ","nylon ","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.4,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Mens Spectra LiteRunning Shoe ",
+        "price":  1092,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":"grey ",
+        "imageUrl":"10ms.jpg",
+        "tags":["shoes","grey  ","nylon ","running shoe","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.4,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Barefoot Skin Water Shoes ",
+        "price":  499,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":" blue",
+        "imageUrl":"11ms.jpg",
+        "tags":["shoes"," blue ","nylon ","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Mens Tread Revolution Adv Lp Running Shoes ",
+        "price":  1299,
+        "description":"Men shoes",
+        "category":["shoes","footwear"],
+        "color":"black ",
+        "imageUrl":"12ms.jpg",
+        "tags":["shoes"," black ","nylon ","running shoe","men shoes"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.4,
+        "season":["Spring","winter","summer"]
+    }
+,
+    {
+        "name":"Men's Regular Fit Cotton Blend Solid Pyjama Pants ",
+        "price":990 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"light green",
+        "imageUrl":"1mslw.jpg",
+        "tags":["sleepwear","green","Cotton","men sleepwear","comfort","pyjama pants","streachable","plain"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.3 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men's Super Combed Cotton Checkered Checkmate Pyjamas ",
+        "price": 655,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"black",
+        "imageUrl":"2mslw.jpg",
+        "tags":["sleepwear","black","Cotton","men sleepwear","comfort","pyjama pants","printed","xyxx brand","soft"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's Super Combed Cotton Checkered Checkmate Pyjamas",
+        "price":719 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"white",
+        "imageUrl":"3mslw.jpg",
+        "tags":["sleepwear","white","Cotton","men sleepwear","comfort","pyjama pants","printed","xyxx brand"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men Pajama Bottom ",
+        "price": 499,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"blue",
+        "imageUrl":"4mslw.jpg",
+        "tags":["sleepwear","blue","Cotton","men sleepwear","comfort","pyjama pants","printed","amazon brand"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's Casual Summer Night dress ",
+        "price":437 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"grey",
+        "imageUrl":"5mslw.jpg",
+        "tags":["sleepwear","grey","Cotton","men sleepwear","comfort","casual","soft","half shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.0 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men Men's co-ord set",
+        "price":589 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"brown",
+        "imageUrl":"6mslw.jpg",
+        "tags":["sleepwear","brown","Cotton","men sleepwear","comfort","half shorts","soft","greciilooks"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Mens lounge Pants  ",
+        "price":599 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"navy and grey",
+        "imageUrl":"7mslw.jpg",
+        "tags":["sleepwear","grey","Cotton","men sleepwear","comfort","pyjama pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's Super Combed Cotton Checkered Checkmate Pyjamas",
+        "price":655 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"grey checks",
+        "imageUrl":"8mslw.jpg",
+        "tags":["sleepwear","grey","Cotton","men sleepwear","comfort","pyjama pants","printed","xyxx brand"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's Casual Regular Pajama Bottom",
+        "price": 279,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"olive",
+        "imageUrl":"9mslw.jpg",
+        "tags":["sleepwear","green","Cotton","men sleepwear","comfort","pyjama pants","amazon brand","soft"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men's Super Combed Cotton Checkered Checkmate Pyjamas ",
+        "price":719 ,
+        "description":"Men sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"blue",
+        "imageUrl":"10mslw.jpg",
+        "tags":["sleepwear","blue","Cotton","men sleepwear","comfort","pyjama pants","xyxx brand"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    }
+,
+    {
+        "name":" Men's Regular Fit Trackpants ",
+        "price": 498,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":"black ",
+        "imageUrl":"1mspw.jpg",
+        "tags":["sportswear","black ","men sportswear","comfort","regular fit","track pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.1 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's Regular Fit Trackpants ",
+        "price": 378,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":" black",
+        "imageUrl":"2mspw.jpg",
+        "tags":["sportswear","black ","men sportswear","comfort","regular fit","track pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men's PMC Fabric Silky Soft Running Track Suit for Men  ",
+        "price": 499,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":" blue",
+        "imageUrl":"3mspw.jpg",
+        "tags":["sportswear"," blue","men sportswear","comfort","running track suit","soft","shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 5.0,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":" Men's 7 inch Dry Fit Sports Running Reflective Shorts ",
+        "price": 699,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":"grey ",
+        "imageUrl":"4mspw.jpg",
+        "tags":["sportswear","grey ","men sportswear","comfort","regular fit","shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men’s Regular Fit Polyester Shorts  ",
+        "price": 369,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":"black ",
+        "imageUrl":"5mspw.jpg",
+        "tags":["sportswear"," ","men sportswear","comfort","regular fit","shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.9 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's Full Sleeves Gym T-Shirt ",
+        "price": 298,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":"navy blue ",
+        "imageUrl":"6mspw.jpg",
+        "tags":["sportswear"," blue","men sportswear","comfort","regular fit","gym T-shirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Men s Running Shorts，Workout Running Shorts   ",
+        "price": 314,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":" grey",
+        "imageUrl":"7mspw.jpg",
+        "tags":["sportswear","grey ","men sportswear","comfort","running track suit","shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" 9411 Men's Super Combed Cotton Rich Straight Fit Solid shorts ",
+        "price": 899,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":"red & grey ",
+        "imageUrl":"8mspw.jpg",
+        "tags":["sportswear"," grey","red","men sportswear","comfort","regular fit","shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.3,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Polyester Spandex Men's Sports Running Set Compression Shirts ",
+        "price": 494,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":" black",
+        "imageUrl":"9mspw.jpg",
+        "tags":["sportswear","black ","men sportswear","comfort","regular fit","shirts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Men's 2 In 1 Running Quick Dry Shorts Gym Athletic Workout shorts ",
+        "price": 498,
+        "description":"Men sportswear",
+        "category":["sportswear","clothing"],
+        "color":"blue ",
+        "imageUrl":"10mspw.jpg",
+        "tags":["sportswear"," blue","men sportswear","comfort","regular fit","shorts"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","Summer"]
+    }
+
+,
+    {
+        "name":"Champ Poly Spandex swimwear",
+        "price":1095,
+        "description":"Men swimwear",
+        "category":["swimwear","clothing"],
+        "color":"red",
+        "imageUrl":"1sw.jpg",
+        "tags":["swimwear","red","shorts","men swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"Boldfit Swimming Costume for Men",
+        "price":447,
+        "description":"Men swimwear",
+        "category":["swimwear","clothing"],
+        "color":"black",
+        "imageUrl":"2sw.jpg",
+        "tags":["swimwear","black","shorts","men swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.1,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"Lycot Men's Lycra Long U-Cut Jammer Swimwear",
+        "price":750,
+        "description":"Men swimwear",
+        "category":["swimwear","clothing"],
+        "color":"black",
+        "imageUrl":"3sw.jpg",
+        "tags":["swimwear","black","shorts","men swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"JUST RIDER Unisex Swimming Shorts Trunk",
+        "price":272,
+        "description":"Men swimwear",
+        "category":["swimwear","clothing"],
+        "color":"black",
+        "imageUrl":"4sw.jpg",
+        "tags":["swimwear","black","shorts","men swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.9,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"YUPPIN Men's Full Sleeve Swimming Suit, Beach wear Quick Dry Surfing Dress, Men Full Body Swimsuit",
+        "price":1699,
+        "description":"Men swimwear",
+        "category":["swimwear","clothing"],
+        "color":"black",
+        "imageUrl":"5sw.jpg",
+        "tags":["swimwear","black","shorts","men swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2,
+        "season":["Spring","Summer"]
+    }
+,
+    {
+        "name":" Redmi 13C 5G (Starlight Black, 8GB RAM, 256GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display",
+        "price":  14499,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"starlight black ",
+        "imageUrl":"1e.jpg",
+        "tags":["phones"," black ","starlight ","13c","mobile","smart phones","andriod","camera","redmi"],
+        "brand":"redmi",
+        "size":"6.74 inches ",
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Redmi A2 (Aqua Blue, 2GB RAM, 64GB Storage) ",
+        "price":  5299,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" blue",
+        "imageUrl":"2e.jpg",
+        "tags":["phones"," blue ","a2 ","mobile","smart phones","andriod","camera","redmi"],
+        "brand":"redmi",
+        "size":"6.5 inches ",
+        "rating": 3.9,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Redmi Note 13 5G (Arctic White, 8GB RAM, 256GB Storage) | MTK Dimensity 6080 5G | 7.6mm, Slimmest Note Ever",
+        "price":  19999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" white",
+        "imageUrl":"3e.jpg",
+        "tags":["phones","white  ","note ","13","mobile","smart phones","andriod","camera","redmi"],
+        "brand":"redmi",
+        "size":"6.67 inches ",
+        "rating": 3.5,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Redmi Note 13 5G (Stealth Black, 12GB RAM, 256GB Storage) | MTK Dimensity 6080 5G | 7.6mm, Slimmest Note Ever",
+        "price":  22999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"black ",
+        "imageUrl":"4e.jpg",
+        "tags":["phones"," note "," 13","black","mobile","smart phones","andriod","camera","redmi"],
+        "brand":"redmi",
+        "size":"6.67 inches ",
+        "rating":3.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Apple iPhone 14 (128 GB) ",
+        "price":  58999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"light pink ",
+        "imageUrl":"5e.jpg",
+        "tags":["phones","pink  ","iphone ","mobile","smart phones","ios","camera","apple"],
+        "brand":"iphone",
+        "size":" 6.1 inches",
+        "rating":4.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Apple iPhone 13 (128GB) ",
+        "price":  52999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"dark green ",
+        "imageUrl":"6e.jpg",
+        "tags":["phones","green  ","iphone ","mobile","smart phones","ios","camera","apple"],
+        "brand":"iphone",
+        "size":"6.1 inches ",
+        "rating": 4.6,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Apple iPhone 15 Plus (128 GB)  ",
+        "price":  82999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"yellow ",
+        "imageUrl":"7e.jpg",
+        "tags":["phones","yellow  ","plus","iphone ","mobile","smart phones","ios","camera","apple"],
+        "brand":"iphone",
+        "size":"6.7 inches ",
+        "rating":4.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Apple iPhone 13 (256GB) ",
+        "price":  61900,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"red ",
+        "imageUrl":"8e.jpg",
+        "tags":["phones","red  ","iphone ","mobile","smart phones","ios","camera","apple"],
+        "brand":"iphone",
+        "size":"6.1 inches ",
+        "rating":4.6 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" OnePlus 12R (Iron Gray, 8GB RAM, 128GB Storage)",
+        "price":  39999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"grey ",
+        "imageUrl":"9e.jpg",
+        "tags":["phones","grey  ","12R ","mobile","smart phones","andriod","camera","oneplus"],
+        "brand":"oneplus",
+        "size":"6.3 inches ",
+        "rating":4.2 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 8GB RAM, 256GB Storage) ",
+        "price":  19999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" chromatic grey",
+        "imageUrl":"10e.jpg",
+        "tags":["phones","  grey","nord ","ce","lite","mobile","smart phones","andriod","camera","oneplus"],
+        "brand":"oneplus",
+        "size":" 6.72",
+        "rating":4.2 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"OnePlus 12R (Cool Blue, 16GB RAM, 256GB Storage) ",
+        "price":  45999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" sky blue",
+        "imageUrl":"11e.jpg",
+        "tags":["phones"," blue ","12R ","mobile","smart phones","andriod","camera","oneplus"],
+        "brand":"oneplus",
+        "size":" 6.4 inches",
+        "rating": 3.8,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung Galaxy A15 5G (Light Blue, 8GB, 256GB Storage) | 50 MP Main Camera  ",
+        "price":  22499,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" light blue",
+        "imageUrl":"12e.jpg",
+        "tags":["phones","blue  "," galaxy","A15","mobile","smart phones","andriod","camera","samsung"],
+        "brand":"samsung",
+        "size":"6.5 inches ",
+        "rating":3.8 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung Galaxy M34 5G (Prism Silver,8GB,128GB)|120Hz sAMOLED Display|50MP Triple No Shake Cam ",
+        "price":  17999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" grey",
+        "imageUrl":"13e.jpg",
+        "tags":["phones"," grey ","galaxy ","mobile","smart phones","andriod","camera","samsung"],
+        "brand":"samsung",
+        "size":" 6.5 inches",
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung Galaxy M14 5G (ICY Silver,4GB,128GB)|50MP Triple Cam|Segment's Only 6000 mAh 5G SP ",
+        "price":  12499,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":"grey ",
+        "imageUrl":"14e.jpg",
+        "tags":["phones"," grey ","galaxy ","M14","mobile","smart phones","andriod","camera","samsung"],
+        "brand":"samsung",
+        "size":"6.4 inches ",
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung Galaxy A54 5G (Awesome Violet, 8GB, 256GB Storage) | 50 MP No Shake Cam (OIS) ",
+        "price":  37999,
+        "description":"Smart phone ",
+        "category":["phones","electronics"],
+        "color":" voilet",
+        "imageUrl":"15e.jpg",
+        "tags":["phones"," purple ","galaxy ","A54","mobile","smart phones","andriod","camera","samsung"],
+        "brand":"samsung",
+        "size":"6.5 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Samsung 108 cm (43 inches) Crystal iSmart 4K Ultra HD Smart LED TV",
+        "price":  30990,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":" black",
+        "imageUrl":"16e.jpg",
+        "tags":["tv"," black ","crystal ","ultra hd","HD","smart tvs","led tv","samsung "],
+        "brand":"samsung",
+        "size":"43 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung 108 cm (43 Inches) Crystal Vision 4K Ultra HD Smart LED TV ",
+        "price":  31990,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":"titan grey ",
+        "imageUrl":"17e.jpg",
+        "tags":["tv"," grey ","crystal ","ultra hd","HD","smart tvs","led tv","samsung "],
+        "brand":"samsung",
+        "size":" 43 inches",
+        "rating":4.2 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Samsung 108 cm (43 inches) Full HD Smart LED TV UA43T5450AKXXL (Black)",
+        "price":  26999,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":" black",
+        "imageUrl":"18e.jpg",
+        "tags":["tv"," black ","HD","smart tvs","led tv","samsung "],
+        "brand":"samsung",
+        "size":"43 inches ",
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung 138 cm (55 inches) 4K Ultra HD Smart QLED TV ",
+        "price":  64990,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":"titan grey ",
+        "imageUrl":"19e.jpg",
+        "tags":["tv"," grey "," ultra hd","HD","smart tvs","led tv","samsung "],
+        "brand":"samsung",
+        "size":" 55 inches",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV ",
+        "price":  75990,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":"black ",
+        "imageUrl":"20e.jpg",
+        "tags":["tv","  black"," ultra hd","HD","google tv","smart tvs","led tv","sony "],
+        "brand":"sony",
+        "size":" 65 inches",
+        "rating":4.7 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Sony Bravia 108 cm (43 inches) 4K Ultra HD Smart LED Google TV KD-43X64L (Black) ",
+        "price":  40999,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":" black",
+        "imageUrl":"21e.jpg",
+        "tags":["tv"," black ","google tv"," ultra hd","HD","smart tvs","led tv","sony "],
+        "brand":"sony",
+        "size":"43 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro ",
+        "price":  29999,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":"black ",
+        "imageUrl":"22e.jpg",
+        "tags":["tv"," black ","andriod","pro"," ultra hd","HD","smart tvs","led tv","oneplus"],
+        "brand":"oneplus",
+        "size":" 43 inches",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"OnePlus 163.8 cm (65 inches) U Series 4K LED Smart Android TV 65U1S (Black) ",
+        "price":  61999,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":"black ",
+        "imageUrl":"23e.jpg",
+        "tags":["tv"," black ","andriod"," ultra hd","HD","smart tvs","led tv","oneplus"],
+        "brand":"oneplus",
+        "size":"65 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"OnePlus 163 cm (65 inches) Q Series 4K Ultra HD QLED Smart Google TV 65 Q2 Pro ",
+        "price":  89999,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":" black",
+        "imageUrl":"24e.jpg",
+        "tags":["tv","black  ","pro","google tv"," ultra hd","HD","smart tvs","led tv","oneplus"],
+        "brand":"oneplus",
+        "size":"65 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"OnePlus 138 cm (55 inches) Y Series 4K Ultra HD Smart Android LED TV 55Y1S Pro ",
+        "price": 39999 ,
+        "description":"Smart TV ",
+        "category":["Smart TV","electronics"],
+        "color":"black ",
+        "imageUrl":"25e.jpg",
+        "tags":["tv","black  ","pro","google tv"," ultra hd","HD","smart tvs","led tv","oneplus"],
+        "brand":"oneplus",
+        "size":"55 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Dell 14 Laptop, 12th Gen Intel Core i5-1235U Processor, 16GB, 512GB, 14.0 (35.56cm) FHD Display, Windows 11 + MSO'21, Spill-Resistant Keyboard, 15 Month Mcafee, Black, Thin & Light ",
+        "price": 48990 ,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"black ",
+        "imageUrl":"26e.jpg",
+        "tags":["laptop"," black ","thin","light"," powerfull","windows","dell"],
+        "brand":"dell",
+        "size":"14 inches ",
+        "rating":3.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Dell 15 Laptop, Intel Core i5-1135G7 Processor/ 8GB/ 1TB+256GB SSD/15.6(39.62cm) FHD Display/Mobile Connect/Window",
+        "price": 44990 ,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"black ",
+        "imageUrl":"27e.jpg",
+        "tags":["laptop"," black ","thin","light"," powerfull","windows","dell"],
+        "brand":"dell",
+        "size":" 15.6 inches",
+        "rating": 3.5,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Dell G15-5530 Gaming Laptop, Intel Core i5-13450HX Processor, 16GB DDR5, 1TB, NVIDIA RTX 3050,6GB GDDR6, 15.6 (39.62cm) FHD 120Hz 250 nits, Backlit KB Orange,Win 11 + MSO'21, Dark Shadow Gray, 2.65kg ",
+        "price": 79990 ,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"grey ",
+        "imageUrl":"28e.jpg",
+        "tags":["laptop","grey  ","thin","light"," powerfull","windows","dell"],
+        "brand":"dell",
+        "size":"15.6 inches ",
+        "rating": 3.3,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Dell 14 Metal Body Premium Laptop, Intel Core i5-1235U Proc/16GB DDR4/512GB SSD/Intel UHD Graphics/14.0 (35.56cm) FHD/Backlit Keyboard/Thin & Light 1.48kg/Win 11 + MSO'21/15 Month McAfee/Dark Silver ",
+        "price": 56990 ,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":" dark grey",
+        "imageUrl":"29e.jpg",
+        "tags":["laptop","gey  ","thin","light"," powerfull","windows","dell"],
+        "brand":"dell",
+        "size":"14 inches ",
+        "rating": 3.5,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID",
+        "price":  82999,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"grey ",
+        "imageUrl":"30e.jpg",
+        "tags":["laptop"," grey ","thin","light"," powerfull","macbook","apple"],
+        "brand":"apple",
+        "size":" 13.3 inches",
+        "rating":4.7 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Apple 2022 MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad ",
+        "price": 119900 ,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"starlight ",
+        "imageUrl":"31e.jpg",
+        "tags":["laptop"," grey ","thin","light"," powerfull","macbook","apple"],
+        "brand":"apple",
+        "size":"13.6 inches ",
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Apple 2023 MacBook Air Laptop with M2 chip: 38.91 cm (15.3 inch) Liquid Retina Display, 8GB RAM 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera,Touch ID. Works with iPhone/iPad; Silver ",
+        "price":  134900,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"silver ",
+        "imageUrl":"32e.jpg",
+        "tags":["laptop","grey  ","thin","light"," powerfull","macbook","apple"],
+        "brand":"apple",
+        "size":"15.3 inches ",
+        "rating": 4.3,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Apple 2023 MacBook Pro (14-inch, M3 chip with 8‑core CPU and 10‑core GPU, 8GB Unified Memory, 1TB) - Space Grey",
+        "price":  189900,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":" grey",
+        "imageUrl":"33e.jpg",
+        "tags":["laptop","grey  ","thin","light"," powerfull","macbook","apple"],
+        "brand":"apple",
+        "size":"14 inches ",
+        "rating": 4.7,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Samsung Galaxy Book3 Core i5 13th Gen 1335U - (16 GB/512 GB SSD/Windows 11 Home) Galaxy Book3 Thin and Light Laptop (15.6 Inch, Graphite, 1.58 Kg, with MS Office) ",
+        "price":  73490,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"graphite ",
+        "imageUrl":"34e.jpg",
+        "tags":["laptop"," grey","galaxy ","thin","light"," powerfull","windows","samsung "],
+        "brand":"samsung",
+        "size":"15.6 inches ",
+        "rating": 4.3,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Samsung Galaxy Book2 (NP750) Intel 12th Gen core i5 39.6cm (15.6) FHD Thin & Light Laptop (8 GB/512 GB/Windows 11/MS Office/Backlit Keyboard/Finger Print Reader/Silver/1.55Kg), NP750XED-KC1IN ",
+        "price":  49999,
+        "description":"Laptop ",
+        "category":["laptops","electronics"],
+        "color":"silver ",
+        "imageUrl":"35e.jpg",
+        "tags":["laptop"," grey","galaxy ","thin","light"," powerfull","windows","samsung "],
+        "brand":"samsung",
+        "size":"15.6 inches ",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones (Blue)  ",
+        "price":  3980,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":"blue ",
+        "imageUrl":"36e.jpg",
+        "tags":["headphones","blue ","noise cancelling", "wireless", "bluetooth", "over-ear","sony "],
+        "brand":"sony",
+    
+        "rating": 4.2,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Sony WH-CH720N, Wireless Over-Ear Active Noise Cancellation Headphones with Mic, up to 50 Hours Playtime, Multi-Point Connection, App Support, AUX & Voice Assistant Support for Mobile Phones (White)  ",
+        "price":  9990,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" white",
+        "imageUrl":"37e.jpg",
+        "tags":["headphones","white ","noise cancelling", "wireless", "bluetooth", "over-ear","sony "],
+        "brand":"sony",
+    
+        "rating": 4.4,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Sony WI-C100 Wireless Headphones with Customizable Equalizer for Deep Bass & 25 Hrs Battery, DSEE-Upscale, Splash Proof, 360RA, Fast Pair, in-Ear Bluetooth Headset with mic for Phone Calls (Black) ",
+        "price":  1490,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":"black ",
+        "imageUrl":"38e.jpg",
+        "tags":["headphones"," black ","neck band", "wireless", "bluetooth", "in-ear","sony "],
+        "brand":"sony",
+    
+        "rating":3.7 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Sony MDR-EX155AP in-Ear Wired Headphones with Mic ",
+        "price":  1099,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" black",
+        "imageUrl":"39e.jpg",
+        "tags":["headphones","black  ","noise cancelling", "wired", "in-ear","sony "],
+        "brand":"sony",
+    
+        "rating": 4.1,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Sony Extra Bass MDR-XB450AP On-Ear Wired Headphones with Mic ",
+        "price": 2099 ,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" blue",
+        "imageUrl":"40e.jpg",
+        "tags":["headphones","blue","noise cancelling", "wired", "in-ear","sony "],
+        "brand":"sony",
+    
+        "rating":4.3 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" boAt Rockerz 255 Pro+ Bluetooth Neckband with Upto 60 Hours Playback, ASAP Charge, IPX7, Dual Pairing and Bluetooth v5.2(Teal Green) ",
+        "price":  1199,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":"green ",
+        "imageUrl":"41e.jpg",
+        "tags":["headphones","green  ","neck band", "wireless","bluetooth" ,"in-ear","boat "],
+        "brand":"boat",
+    
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" boAt BassHeads 100 in-Ear Wired Headphones with Mic ",
+        "price":  499,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":"black ",
+        "imageUrl":"42e.jpg",
+        "tags":["headphones","black  ","noise cancelling", "wired" ,"in-ear","boat "],
+        "brand":"boat",
+    
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" boAt Nirvana 751 ANC Hybrid Active Noise Cancelling Bluetooth Wireless Over Ear Headphones with Up to 65H Playtime, ASAP Charge, Ambient Sound Mode, Immersive Sound, Carry Pouch with mic  ",
+        "price":  4499,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" bold blue",
+        "imageUrl":"43e.jpg",
+        "tags":["headphones","blue","noise cancelling", "wireless","bluetooth" ,"over-ear","boat "],
+        "brand":"boat",
+    
+        "rating": 3.9,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" boAt Rockerz 255 Pro+ Bluetooth in Ear Neckband with Upto 60 Hours Playback, ASAP Charge, IPX7, Dual Pairing and Bluetooth v5.2(Active Black) ",
+        "price":  1097,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" black",
+        "imageUrl":"44e.jpg",
+        "tags":["headphones","black  ","neck band", "wireless","bluetooth" ,"in-ear","boat "],
+        "brand":"boat",
+    
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" ZEBRONICS New Launch Thunder PRO Wireless Headphone with Dual Pairing, Gaming Mode, ENC, Bluetooth, Call Function, Aux, Micro SD, Voice Assistant, Deep Bass, Up to 60h Backup ",
+        "price":  999,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" olive green",
+        "imageUrl":"45e.jpg",
+        "tags":["headphones","green  ","noise cancelling", "wireless","bluetooth" ,"over-ear","zebronics "],
+        "brand":"zebronics",
+    
+        "rating":3.7 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" ZEBRONICS Zeb-Dynamic Wireless Headphone with 34 hrs. of Playback ",
+        "price":  799,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" blue",
+        "imageUrl":"46e.jpg",
+        "tags":["headphones","blue","noise cancelling", "wireless","bluetooth" ,"over-ear","zebronics "],
+        "brand":"zebronics",
+    
+        "rating":3.8 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Zebronics Zeb-Storm Wired On Ear Headphone with 3.5mm Jack, Built-in Microphone for Calling, 1.5 Meter Cable, Soft Ear Cushion, Adjustable Headband, Foldable Ear Cups and Lightweight Design ",
+        "price":  499,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" black",
+        "imageUrl":"47e.jpg",
+        "tags":["headphones"," black ","noise cancelling", "wired" ,"over-ear","zebronics "],
+        "brand":"zebronics",
+    
+        "rating": 3.8,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" ZEBRONICS Zeb-Bro in Ear Wired Earphones with Mic, 3.5mm Audio Jack, 10mm Drivers, Phone/Tablet Compatible ",
+        "price":  159,
+        "description":"Headphones ",
+        "category":["Headphones","electronics"],
+        "color":" green",
+        "imageUrl":"48e.jpg",
+        "tags":["headphones","green ", "wired" ,"in-ear","zebronics "],
+        "brand":"zebronics",
+    
+        "rating": 3.5,
+        "season":["Spring","winter","summer"]
+    }
+
+    
+
+
+    
+
+,
+    {
+        "name":"Cheriyre Rose Old Plated Ethnic Heart Shaped Magnetic Pendant (Free Hug Ring) for women traditional girls stylish Set",
+        "price": 349 ,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"1a.jpg",
+        "tags":["accessories"," golden ","single layer","chains","women accessories","metal"],
+        
+        
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Cheriyre Double Hoop Stunning Necklace for women traditional girls stylish Set",
+        "price":  449,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"2a.jpg",
+        "tags":["accessories","golden  ","single layer","chains","women accessories","metal"],
+        
+        
+        "rating":3.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Cheriyre Oblong Blackish Stud Necklace for women traditional girls stylish Set",
+        "price":  599,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"gold & black ",
+        "imageUrl":"3a.jpg",
+        "tags":["accessories","golden  ","black","single layer","chains","women accessories","metal"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion Stylish Multilayer Chain Pendant Necklace for Women and Girls Minimalist Heart Star Bohemian Crystal Choker Necklace ",
+        "price":  199,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"4a.jpg",
+        "tags":["accessories"," golden ","mutli layer","choker","chains","women accessories","metal"],
+        
+        
+        "rating":4.2 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion Latest Multilayer Western Neckpiece Neck Chain Necklace for Women and Girls, Golden ",
+        "price":  199,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"5a.jpg",
+        "tags":["accessories"," golden ","mutli layer","chains","women accessories","metal"],
+        
+        
+        "rating":3.4 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion Latest Layered Western Non Precious Base Metal Cubic Zirconia Golden Neck Chain Pendant Necklace Jewellery for Women ",
+        "price":  199,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"6a.jpg",
+        "tags":["accessories","golden  ","mutli layer","chains","women accessories","metal"],
+        
+        
+        "rating":3.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion Jewellery Crystal Flower Long Chain Stylish Pendant Necklace for Women and Girls ",
+        "price":  298,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"silver platted",
+        "imageUrl":"7a.jpg",
+        "tags":["accessories","silver  ","single layer","chains","women accessories","metal"],
+        
+        
+        "rating":4.2,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"GIVA 925 Sterling Silver Flutterby Necklace| Pendant to Gift Women & Girls | With Certificate of Authenticity and 925 Stamp ",
+        "price":  2299,
+        "description":"Women accessories",
+        "category":["necklace","accessories"],
+        "color":"silver platted",
+        "imageUrl":"8a.jpg",
+        "tags":["accessories","silver  ","mutli layer","chains","women accessories","metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Estele Fancy Designer Bracelets for Women",
+        "price":  629,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"gold platted",
+        "imageUrl":"9a.jpg",
+        "tags":["accessories","golden  ","bracelets","women accessories","metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Estele 24 Kt Gold and Silver Plated Classic Seven Stone Twin Cuff Bracelet For Women",
+        "price":  539,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"gold platted",
+        "imageUrl":"10a.jpg",
+        "tags":["accessories","golden  ","bracelets","women accessories","metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion 18K Gold Plated Stainless Steel Openable Crystal Bracelet | Latest Stylish Cuff Bangle ",
+        "price":  337,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"gold platted",
+        "imageUrl":"11a.jpg",
+        "tags":["accessories","golden  ","bracelets","women accessories","metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Clara 925 Pure Silver Blue Butterfly Hand Bracelet | Adjustable, Anti Tarnish, Swiss Zirconia   ",
+        "price":  2699,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"silver platted",
+        "imageUrl":"12a.jpg",
+        "tags":["accessories","silver  ","bracelets","women accessories","metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Valentine Gift By Shining Diva Blue Stylish Crystal Silver Plated Platinum Plated Cubic Zirconia Charm Bracelet for Women ",
+        "price":  249,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"silver platted",
+        "imageUrl":"13a.jpg",
+        "tags":["accessories","silver  ","bracelets","women accessories","metal"],
+        
+        
+        "rating":3.9 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion Latest Stylish Austrian Crystal Rose Gold Charm Bracelet for Women  ",
+        "price":  275,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"silver platted",
+        "imageUrl":"14a.jpg",
+        "tags":["accessories","silver  ","bracelets","women accessories","metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Crafty Glam Premium Satin Scrunchies for Women Pack of 5 Luxury Hair Scrunchies for Women and Girls Elegant Ponytail Holders Hair Band for Women in Solid Colors for Stylish Hairdos",
+        "price":  169,
+        "description":"Women accessories",
+        "category":["hair bands ","accessories"],
+        "color":"mutil color ",
+        "imageUrl":"15a.jpg",
+        "tags":["accessories","black ","white"," hair band","women accessories", " hair tie"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Annacreations Korean Fashion Style Pearl Rhinestone Metal Hair Clips Hair Pin Stylish Hair Accessories Jewellery For Women's And Girls, Multicolour 24 Count",
+        "price":  499,
+        "description":"Women accessories",
+        "category":["hair clips ","accessories"],
+        "color":" multi color",
+        "imageUrl":"16a.jpg",
+        "tags":["accessories","metal"," hair tie","women accessories", "hair clips "],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" RedChimes Korean Style Small Pearl Hair Claw Clips Mini Pearl Claw Clips with Flower Design, Sweet Artificial Bangs Clips Decorative Hair Accessories for Women's Girls Pack of 10 Pcs",
+        "price":  299,
+        "description":"Women accessories",
+        "category":["hair clips ","accessories"],
+        "color":"white ",
+        "imageUrl":"17a.jpg",
+        "tags":["accessories","white","hair clips ","women accessories", " hair tie"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion 22pcs Latest Stylish Stackable Kunckle Rings Set for Women and Girls Butterfly Heart Boho Gold and Silver Plated Rings ",
+        "price":  277,
+        "description":"Women accessories",
+        "category":["rings ","accessories"],
+        "color":"gold platted",
+        "imageUrl":"18a.jpg",
+        "tags":["accessories","golden  ","hand rings ","women accessories", "metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" ANNACREATIONS Korean Style Gold Metal Pearl Geometric Stone Lock Hair Pins Hair Clip Hair Accessories Jewellery for Women And Girls 6 Count",
+        "price":  274,
+        "description":"Women accessories",
+        "category":["hair clips ","accessories"],
+        "color":"white",
+        "imageUrl":"19a.jpg",
+        "tags":["accessories","white","hair clips ","women accessories", " hair tie"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"HSR PU Leather Jewelry Box for Earring Rings Necklace Jewelry Holder Organizer Case, Gifts for Girls Women ",
+        "price":  499,
+        "description":"Women accessories",
+        "category":["necklace","rings ","accessories"],
+        "color":"gold platted",
+        "imageUrl":"20a.jpg",
+        "tags":["accessories","hand rings ","ear rings ","necklace","chains","women accessories", "metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Shining Diva Fashion Latest Stylish Bohemian I Love You Feather Tassel Charm Multilayer Beaded Bangle Bodhi Bracelet for Women and Girls ",
+        "price":  298,
+        "description":"Women accessories",
+        "category":["bracelets","accessories"],
+        "color":"red ",
+        "imageUrl":"21a.jpg",
+        "tags":["accessories","bracelets","red ","women accessories", "metal"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"okos Men's Fashion Jewellery Solid Spear Point Arrowhead Pendant Necklace With Chain For Boys and Men PD1000875 ",
+        "price":  259,
+        "description":"Men accessories",
+        "category":["necklace","accessories"],
+        "color":"silver platted",
+        "imageUrl":"22a.jpg",
+        "tags":["accessories","necklace","silver  ","men accessories", "metal"],
+        
+        
+        "rating":3.8 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"THE MEN THING Chain for Men - Pure Titanium Steel Or Alloy 3D Silver Cuboid Vertical Bar Pendant with 24inch Ball Chain for Men & Boys ",
+        "price":  599,
+        "description":"Men accessories",
+        "category":["necklace","accessories"],
+        "color":"silver platted",
+        "imageUrl":"23a.jpg",
+        "tags":["accessories","necklace","silver  ","men accessories", "metal"],
+        
+        
+        "rating":3.8 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"U7 Miami Cuban Chain in Stainless Black Gold Color Flat Link Necklace NK Cuban Chains for Men Women,Width 3-12mm,Length  30 Inch with Gift Box ",
+        "price": 1399 ,
+        "description":"Men accessories",
+        "category":["necklace","accessories"],
+        "color":"silver platted",
+        "imageUrl":"24a.jpg",
+        "tags":["accessories","necklace","silver  ","men accessories", "metal"],
+        
+        
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Fashion Frill Men's Jewellery Black Silver Chain For Men Boys Geometric Stainless Steel Black Silver Locket Pendant Necklace Chain For Men Boys Anniversary Gift For Husband Gift Chains ",
+        "price": 299 ,
+        "description":"Men accessories",
+        "category":["necklace","accessories"],
+        "color":"silver platted",
+        "imageUrl":"25a.jpg",
+        "tags":["accessories","necklace","black ","silver  ","men accessories", "metal"],
+        
+        
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Yellow Chimes Chain for Men and Boys Neck Chain for Men | Stainless Steel Chains for Men | Accessories Jewellery for Men ",
+        "price":  399,
+        "description":"Men accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"26a.jpg",
+        "tags":["accessories","necklace","golden  ","men accessories", "metal"],
+        
+        
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Amaal Jewellery Latest Pure Stainless Steel Long Gold Necklace Sachin Chains Chain for Men Boys Boy friend Gents Male Mens -CN-A205 ",
+        "price":  299,
+        "description":"Men accessories",
+        "category":["necklace","accessories"],
+        "color":"gold platted",
+        "imageUrl":"27a.jpg",
+        "tags":["accessories","necklace","golden  ","men accessories", "metal"],
+        
+        
+        "rating":3.9 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Jewar Mandi Jewar Bracelet Men's Indian Handmade Real Look Gold Plated Stylish Gents Jewelry 6378 ",
+        "price":  306,
+        "description":"Men accessories",
+        "category":["bracelets","accessories"],
+        "color":"gold platted",
+        "imageUrl":"28a.jpg",
+        "tags":["accessories","bracelets","golden  ","men accessories", "metal"],
+        
+        
+        "rating":3.9 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Yellow Chimes Bracelets for Men and Boys Fashion Gold Bracelet for Men | Gold Plated Stainless Steel Curb Chain Bracelet for Men ",
+        "price":  599,
+        "description":"Men accessories",
+        "category":["bracelets","accessories"],
+        "color":"gold platted",
+        "imageUrl":"29a.jpg",
+        "tags":["accessories","bracelets","golden  ","men accessories", "metal"],
+        
+        
+        "rating":3.2 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"ETCHCRAFTEMPORIUM Etchcraft Emporium Personalised Zeus Kada or Bracelet | 22 Carat Glossy Gold Plating | Adjustable in Size ",
+        "price":  2399,
+        "description":"Men accessories",
+        "category":["bracelets","accessories"],
+        "color":"gold platted",
+        "imageUrl":"30a.jpg",
+        "tags":["accessories","bracelets","golden  ","men accessories", "metal"],
+        
+        
+        "rating":2.9 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Nakabh Stainless Steel Bracelet For Men & Boys ",
+        "price":  210,
+        "description":"Men accessories",
+        "category":["bracelets","accessories"],
+        "color":"silver platted",
+        "imageUrl":"31a.jpg",
+        "tags":["accessories","bracelets","silver  ","men accessories", "metal"],
+        
+        
+        "rating":4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Yellow Chimes Bracelets for Men and Boys Fashion Bracelet for Men |Silver Toned Durable Stainless Steel Chain Bracelet for Men ",
+        "price":  499,
+        "description":"Men accessories",
+        "category":["bracelets","accessories"],
+        "color":"silver platted",
+        "imageUrl":"32a.jpg",
+        "tags":["accessories","bracelets","silver  ","men accessories", "metal"],
+        
+        
+        "rating":3.9,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Yellow Chimes High Polished Stainless Steel Kadaa Stylish Black Leather Bracelets for Men and Boys ",
+        "price":  342,
+        "description":"Men accessories",
+        "category":["bracelets","accessories"],
+        "color":"silver platted",
+        "imageUrl":"33a.jpg",
+        "tags":["accessories","bracelets","silver  ","men accessories", "metal"],
+        
+        
+        "rating":4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Lavie Women's Betula Tote Bag | Ladies Purse Handbag ",
+        "price":  899,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":"black ",
+        "imageUrl":"34a.jpg",
+        "tags":["accessories","bags","black ","women accessories", "hand bags "],
+        
+        
+        "rating":4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" The Gusto Beyond+ Croco - Premium Vegan Leather Tote Bag for Women, Big Size | Stylish Handbag for women with Zip Closure | Fit for Office Bag, College, Travel Use | Handcrafted in India",
+        "price":  3399,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":"brown ",
+        "imageUrl":"35a.jpg",
+        "tags":["accessories","bags","brown ","women accessories", "hand bags "],
+        
+        
+        "rating":4.7,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Lavie Women's Betula Tote Bag | Ladies Purse Handbag ",
+        "price":  899,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":"mint ",
+        "imageUrl":"36a.jpg",
+        "tags":["accessories","bags","green ","women accessories", "hand bags "],
+        
+        
+        "rating":4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Lavie Women's Beech Satchel Bag | Ladies Purse Handbag ",
+        "price":  1299,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":"pink ",
+        "imageUrl":"37a.jpg",
+        "tags":["accessories","bags","pink ","women accessories", "hand bags "],
+        
+        
+        "rating":4.2,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" WANQLYN Ethnic Style Waterproof Oxford Backpack Ladies Fashion Travel Canvas Bag Large Capacity Nylon Student School Bag Laptop Bag, Girls Printing School Backpack",
+        "price":  799,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":"black ",
+        "imageUrl":"38a.jpg",
+        "tags":["accessories","bags","black ","women accessories", "backpack "],
+        
+        
+        "rating":4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"ADISA Women's Girls Quilted Cross Body Sling Bag ",
+        "price":  394,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":"white ",
+        "imageUrl":"39a.jpg",
+        "tags":["accessories","bags","white","women accessories", "sling bag "],
+        
+        
+        "rating":4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"ADISA Women's Girls Cross Body Sling Bag with Pouch ",
+        "price":  699,
+        "description":"Women accessories",
+        "category":["bags","accessories"],
+        "color":" white",
+        "imageUrl":"40a.jpg",
+        "tags":["accessories","bags","white","women accessories", "sling bag "],
+        
+        
+        "rating":4.4,
+        "season":["Spring","winter","summer"]
+    }
+
+    
+    
+    
+
+
+,
+    {
         "name":" Women's Cotton Heart Printed Night Suit ",
         "price":899 ,
         "description":"women sleepwear",
@@ -115,6 +2661,1597 @@
         "size":"S,M,L,XL,2XL",
         "rating":4.0 ,
         "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Women's Cotton Dot Printed Night Suit Set of Top & Pyjama ",
+        "price": 899,
+        "description":"women sleepwear",
+        "category":["sleepwear","clothing"],
+        "color":"navy blue ",
+        "imageUrl":"10wslw.jpg",
+        "tags":["sleepwear"," blue","Cotton","women sleepwear","comfort","night suit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.3 ,
+        "season":["Spring","Summer","winter"]
     }
     
-]
+,
+    {
+        "name":" Women Slim Fit Polyester Blend Track Pants ",
+        "price": 399,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":"green ",
+        "imageUrl":"1wspw.jpg",
+        "tags":["sportswear"," green","women sportswear","comfort","slim fit","track pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" High-Impact Velcro Sports Bra ",
+        "price": 1399,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":"green ",
+        "imageUrl":"2wspw.jpg",
+        "tags":["sportswear"," green","women sportswear","adjustable","regular fit","sports bra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Gym wear Mesh Leggings Workout Pants ",
+        "price": 399,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":"black ",
+        "imageUrl":"3wspw.jpg",
+        "tags":["sportswear","black ","women sportswear","comfort","regular fit","track pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Neu Look Gym wear Leggings Ankle Length Workout pants ",
+        "price": 355,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":"grey ",
+        "imageUrl":"4wspw.jpg",
+        "tags":["sportswear"," grey","women sportswear","comfort","ankle length","track pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Womens Dry Fit Workout Top Sports Gym T-Shirt ",
+        "price": 349,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":" black",
+        "imageUrl":"5wspw.jpg",
+        "tags":["sportswear","black ","women sportswear","comfort","regular fit","Gym T-shirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Premium Flare Gym Pants High Waist Stretchable Flared pannts ",
+        "price": 653,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":"black ",
+        "imageUrl":"6wspw.jpg",
+        "tags":["sportswear"," black","women sportswear","strechable","regular fit","track pants"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Proactive Women Sports Bra - Cotton Elastane ",
+        "price": 527,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":"black ",
+        "imageUrl":"7wspw.jpg",
+        "tags":["sportswear","black ","women sportswear","comfort","regular fit","sports bra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" SB06 Low Impact Cotton Sports Bra ",
+        "price": 349,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":" black",
+        "imageUrl":"8wspw.jpg",
+        "tags":["sportswear","black ","women sportswear","comfort","regular fit","sports bra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"  Women's 1/4 Zip Slimfit Raglan Sleeve Tshirt",
+        "price": 397,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":" black",
+        "imageUrl":"9wspw.jpg",
+        "tags":["sportswear"," black","women sportswear","comfort","regular fit","Gym T-shirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"  Women's Nylon Lightly Padded Wire Free Sports Bra",
+        "price": 599,
+        "description":"women sportswear",
+        "category":["sportswear","clothing"],
+        "color":" black",
+        "imageUrl":"10wspw.jpg",
+        "tags":["sportswear","black ","nylon","women sportswear","comfort","regular fit","sports bra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+    }
+
+,
+    {
+        "name":"ROVARS Women’s Swimming Costume",
+        "price":1695,
+        "description":"women swimwear",
+        "category":["swimwear","clothing"],
+        "color":"black",
+        "imageUrl":"1wsw.jpg",
+        "tags":["swimwear","black","women swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"Women’s Swimming Costume",
+        "price":1985,
+        "description":"women swimwear",
+        "category":["swimwear","clothing"],
+        "color":"blue",
+        "imageUrl":"2wsw.jpg",
+        "tags":["swimwear","blue","women swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"Rovars Women's Swimming Costume",
+        "price":1495,
+        "description":"women swimwear",
+        "category":["swimwear","clothing"],
+        "color":"black",
+        "imageUrl":"3wsw.jpg",
+        "tags":["swimwear","black","half sleeves","women swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.3,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"ROVARS Poly Jersy - Printed Swimming Costume for Women Frock Style",
+        "price":747,
+        "description":"women swimwear",
+        "category":["swimwear","clothing"],
+        "color":"green",
+        "imageUrl":"4wsw.jpg",
+        "tags":["swimwear","green","half sleeves","women swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.8,
+        "season":["Spring","Summer"]
+    },
+    {
+        "name":"ROVARS RRovars Poly Jersey Two Piece Women Swimwear Printed Swim Top with Plain Legging",
+        "price":899,
+        "description":"women swimwear",
+        "category":["swimwear","clothing"],
+        "color":"pink",
+        "imageUrl":"5wsw.jpg",
+        "tags":["swimwear","pink","printed","women swimwear"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer"]
+    }
+,
+    {
+        "name":" Women's Regular Fit Formal Stylish Blazer",
+        "price":  1450,
+        "description":"Women Blazers",
+        "category":["blazers","clothing"],
+        "color":"black ",
+        "imageUrl":"1wb.jpg",
+        "tags":["blazers"," black "," regular fit","women blazers","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Smart Casual Formal Blazer for Women, Regular Fit Stylish blazer ",
+        "price":  999,
+        "description":"Women Blazers",
+        "category":["blazers","clothing"],
+        "color":"black ",
+        "imageUrl":"2wb.jpg",
+        "tags":["blazers","  black"," regular fit","women blazers","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.0 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":"Casual Formal Blazer for Women ",
+        "price":  1799,
+        "description":"Women Blazers",
+        "category":["blazers","clothing"],
+        "color":" navy blue",
+        "imageUrl":"3wb.jpg",
+        "tags":["blazers"," blue "," regular fit","women blazers","casual"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Black Smart Casual Formal Blazer for Female",
+        "price": 999 ,
+        "description":"Women Blazers",
+        "category":["blazers","clothing"],
+        "color":" orange & black",
+        "imageUrl":"4wb.jpg",
+        "tags":["blazers"," orange ","black"," regular fit","women blazers","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","Summer","winter"]
+    },
+    {
+        "name":" Women Regular Fit Formal Blazer",
+        "price":  1399,
+        "description":"Women Blazers",
+        "category":["blazers","clothing"],
+        "color":" black",
+        "imageUrl":"5wb.jpg",
+        "tags":["blazers"," black "," regular fit","women blazers","formal"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2 ,
+        "season":["Spring","Summer","winter"]
+    }
+    
+
+,
+    {
+        "name":"Women's Slim Fit Cotton Jeans",
+        "price":529,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"grey",
+        "imageUrl":"1wb.jpg",
+        "tags":["jeans","denim","grey","Cotton","women jeans","slim fit","nifty"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Ankle Length High Rise Skinny Jeans",
+        "price":799,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"2wb.jpg",
+        "tags":["jeans","denim","blue","Cotton","women jeans","skinny fit","ankle length","levi's","high rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's 711 Skinny Fit Mid Rise Jeans",
+        "price":1049,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"dark indigo",
+        "imageUrl":"3wb.jpg",
+        "tags":["jeans","denim","blue","indigo","Cotton","women jeans","skinny fit","levi's","mid rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","winter"]
+        
+    },
+    {
+        "name":"Women High Rise Cotton Lycra Blend Ankle Length Jeans",
+        "price":499,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"4wb.jpg",
+        "tags":["jeans","denim","black","Cotton","women jeans","ankle length","kotty"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.7,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Slim Fit Cotton Jeans",
+        "price":499,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"5wb.jpg",
+        "tags":["jeans","denim","black","Cotton","women jeans","slim fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","winter"]
+        
+    },
+    {
+        "name":"Women Cotton Lycra High Rise Jeans",
+        "price":459,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"light blue",
+        "imageUrl":"6wb.jpg",
+        "tags":["jeans","denim","blue","Cotton","women jeans","high rise jeans","kotty"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.3,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's High Rise Cotton Lycra Blend Ankle Length jeans",
+        "price":459,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"7wb.jpg",
+        "tags":["jeans","denim","black","Cotton","women jeans","high rise jeans","ankle length","kotty"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","winter"]
+        
+    },
+    {
+        "name":"Women's & Girls' Solid High Waist Mom Fit Jeans",
+        "price":799,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"light blue",
+        "imageUrl":"8wb.jpg",
+        "tags":["jeans","denim","blue","Cotton","women jeans","high rise jeans","aahwan"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Womens Solid High Rise Cotton Lycra Blend Relaxed Fit Jeans",
+        "price":459,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"9wb.jpg",
+        "tags":["jeans","denim","blue","women jeans","relaxed fit","kotty","baggy jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","winter"]
+        
+    },
+    {
+        "name":"Women's Reguler Fit Modern Regular High Rise Strechable jeans",
+        "price":499,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"light blue",
+        "imageUrl":"10wb.jpg",
+        "tags":["jeans","denim","blue","women jeans","high rise jeans","streachable","regular fit","zxn clothing"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's 711 Skinny Fit High Rise Jeans",
+        "price":1159,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"grey",
+        "imageUrl":"11wb.jpg",
+        "tags":["jeans","denim","grey","women jeans","skinny fit","levi's","high rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women High Rise Cotton Lycra Regular Length Straight fit Jeans",
+        "price":459,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"jet black",
+        "imageUrl":"12wb.jpg",
+        "tags":["jeans","denim","black","women jeans","straight fit","kotty","high rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.3,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women Denim Straight Fit Jeans",
+        "price":806,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"cream",
+        "imageUrl":"13wb.jpg",
+        "tags":["jeans","denim","cream","women jeans","straight fit","adbucks"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's High Rise Cotton Lycra Blend Ankle Length jeans",
+        "price":459,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"14wb.jpg",
+        "tags":["jeans","blue","women jeans","ankle length","kotty","high rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Regular Fit Jeans",
+        "price":449,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"light blue",
+        "imageUrl":"15wb.jpg",
+        "tags":["jeans","denim","blue","women jeans","regular fit","zxn clothing"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Solid Mid Rise Relaxed Fit Cargo Jeans",
+        "price":849,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"black",
+        "imageUrl":"16wb.jpg",
+        "tags":["jeans","black","women jeans","relaxed fit","kotty","mid rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2,
+        "season":["Spring","winter"]
+        
+    },
+    {
+        "name":"Women's Denim Straight Fit Boyfriend Jeans",
+        "price":629,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"sky blue",
+        "imageUrl":"17wb.jpg",
+        "tags":["jeans","denim","blue","women jeans","straight fit","nifty","baggy jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Denim Stretchable High Rise Flared Jeans",
+        "price":804,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"18wb.jpg",
+        "tags":["jeans","denim","blue","women jeans","streachable","nifty","high rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Women's Denim Stretchable Slim Fit Jeans",
+        "price":699,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"white",
+        "imageUrl":"19wb.jpg",
+        "tags":["jeans","denim","white","women jeans","slim fit","nifty","streachable"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":"Blue High Rise Plain Women Jeans",
+        "price":459,
+        "description":"Women Jeans",
+        "category":["jeans","clothing"],
+        "color":"blue",
+        "imageUrl":"20wb.jpg",
+        "tags":["jeans","denim","blue","women jeans","relaxed fit","kotty","high rise jeans"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Cotton Long Skirt",
+        "price":450,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"blue",
+        "imageUrl":"21wb.jpg",
+        "tags":["skirts","blue ","white","women skirts"," cotton"," Regular fit","long skirt","floral","cotton breeze"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.5,
+        "season":["Spring","Summer"]
+        
+    },
+    {
+        "name":" Women's Long New Skirt ",
+        "price":399,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"black and white",
+        "imageUrl":"22wb.jpg",
+        "tags":["skirts"," black","white","floral","women skirts","Cotton"," long skirt","generic"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.3,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":" Printed Cotton Women Wear Long Skirt ",
+        "price":499,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"blue",
+        "imageUrl":"23wb.jpg",
+        "tags":["skirts","blue ","women skirts"," cotton"," long skirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2 ,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":" Women Long Traditional Ethnic Skirt ",
+        "price":499,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"marron",
+        "imageUrl":"24wb.jpg",
+        "tags":["skirts"," marron","women skirts"," traditional"," Regular fit"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":" Women's Cotton Long Skirt Multi Coloured ",
+        "price":450,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"green",
+        "imageUrl":"25wb.jpg",
+        "tags":["skirts"," green","women skirts"," cotton","multi color","cotton breeze"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Regular Fit Printed Cotton Long Skirt  ",
+        "price":385,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"blue",
+        "imageUrl":"26wb.jpg",
+        "tags":["skirts"," blue","women skirts","floral"," cotton"," half skirt"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"HIMCARE Women's Long Skirt  ",
+        "price":439,
+        "description":"Women skirts",
+        "category":["skirt","clothing"],
+        "color":"marron",
+        "imageUrl":"27wb.jpg",
+        "tags":["skirts","marron ","women skirts"," cotton","long skirt","generic"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.4,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women Regular Fit Cotton Leggings  ",
+        "price":450,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"skin-red-white",
+        "imageUrl":"28wb.jpg",
+        "tags":["leggings","skin ","white","red","women leggings"," cotton"," Regular fit","streachable","generic"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Jockey AW87 Women's Super Combed Cotton Elastane Stretchable  ",
+        "price":549,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"black",
+        "imageUrl":"29wb.jpg",
+        "tags":["leggings"," black","women leggings"," nylon"," Regular fit","streachable","elastic","jockey"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Ultra Soft Cotton Churidar Solid Regular legging ",
+        "price":369,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"navy blue",
+        "imageUrl":"30wb.jpg",
+        "tags":["leggings"," blue","women leggings"," cotton","solid regular","soft","trasa"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Soft Lycra Blended Cotton Solid Regular Churidar Legginsg ",
+        "price":249,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"black",
+        "imageUrl":"31wb.jpg",
+        "tags":["leggings","black ","women leggings"," cotton"," solid regular","soft","generic"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 5.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women Leggings        ",
+        "price":369,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"white",
+        "imageUrl":"32wb.jpg",
+        "tags":["leggings","white ","women leggings"," cotton"," Regular fit","streachable","lux lyra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women Bottom ",
+        "price":369,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"black",
+        "imageUrl":"33wb.jpg",
+        "tags":["leggings","black ","women leggings"," cotton"," Regular fit","streachable","lux lyra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Hajmeera Styles Women's Leggings  ",
+        "price":450,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"pink",
+        "imageUrl":"34wb.jpg",
+        "tags":["leggings","pink ","women leggings"," cotton"," Regular fit","generic"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women Ankle Length Stretchable Leggings  ",
+        "price":499,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"white",
+        "imageUrl":"35wb.jpg",
+        "tags":["leggings"," white","women leggings"," nylon"," ankle length","streachable"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women  Leggings  ",
+        "price":410,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"white",
+        "imageUrl":"36wb.jpg",
+        "tags":["leggings"," white","women leggings"," cotton"," Regular fit","lux lyra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Skinny Fit Leggings  ",
+        "price":389,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"red",
+        "imageUrl":"37wb.jpg",
+        "tags":["leggings"," red","women leggings"," nylon"," skinny fit","streachable","lux lyra"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Women's Skinny Fit Leggings  ",
+        "price":699,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"",
+        "imageUrl":"38wb.jpg",
+        "tags":["leggings"," ","women leggings"," skinny fit","streachable"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Jockey MW68 Women's Microfiber Elastane Stretch  ",
+        "price":1199,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"marron",
+        "imageUrl":"39wb.jpg",
+        "tags":["leggings"," marron","women leggings"," skinny fit","jockey"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.5,
+        "season":["Spring","Summer","winter"]
+        
+    },
+    {
+        "name":"Imperative Neu Look Gym Wear Leggings Ankle Length Workout Tights  ",
+        "price":369,
+        "description":"Women leggings",
+        "category":["leggings","clothing"],
+        "color":"pista green",
+        "imageUrl":"40wb.jpg",
+        "tags":["leggings"," pista green","women leggings"," skinny fit","streachable","ankle length"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.5,
+        "season":["Spring","Summer","winter"]
+        
+    }
+
+,
+    {
+        "name":" Women's Jacket ",
+        "price":  1547,
+        "description":"Women Jackets",
+        "category":["jackets","clothing"],
+        "color":"orange ",
+        "imageUrl":"1wj.jpg",
+        "tags":["jackets"," orange "," regular fit","women jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women Regular Quilted Jacket With Detachable Sleeves  ",
+        "price": 1549 ,
+        "description":"Women Jackets",
+        "category":["jackets","clothing"],
+        "color":" maroon",
+        "imageUrl":"2wj.jpg",
+        "tags":["jackets"," marron "," casual fit","women jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.1,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's Regular Quilted Jacket  ",
+        "price":  1499,
+        "description":"Women Jackets",
+        "category":["jackets","clothing"],
+        "color":" purple",
+        "imageUrl":"3wj.jpg",
+        "tags":["jackets"," pink "," casual fit","women jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's Denim Blend Standard Length Jacket  ",
+        "price":  373,
+        "description":"Women Jackets",
+        "category":["jackets","clothing"],
+        "color":" blue",
+        "imageUrl":"4wj.jpg",
+        "tags":["jackets"," blue "," casual fit","denim","women jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.4,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Women's Polyester Standard Length Jacket ",
+        "price":  448,
+        "description":"Women Jackets",
+        "category":["jackets","clothing"],
+        "color":" black",
+        "imageUrl":"5wj.jpg",
+        "tags":["jackets","black  "," regular fit","polyster","women jackets"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","winter"]
+    }
+,
+    {
+        "name":"Women's Round Neck Short Sleeve jumsuit ",
+        "price": 1385,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"pink ",
+        "imageUrl":"1wjs.jpg",
+        "tags":["jumpsuit"," pink","women jumpsuit","round neck","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.1,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" Women's Maxi Jumpsuit",
+        "price": 599,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"green ",
+        "imageUrl":"2wjs.jpg",
+        "tags":["jumpsuit","green ","women jumpsuit","relaxed fit ","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.0 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's Halter Neck Sleeveless Solid Wide Leg jumpsuit ",
+        "price": 999,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" maroon",
+        "imageUrl":"3wjs.jpg",
+        "tags":["jumpsuit","maroon ","women jumpsuit","halter neck","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's Pink Solid Relaxed Fit ",
+        "price": 1499,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"pink ",
+        "imageUrl":"4wjs.jpg",
+        "tags":["jumpsuit"," pink","women jumpsuit","relaxed fit","v neck","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.2,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's Rayon Foil Printed Round Neck Jumpsuit ",
+        "price": 445,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" multicolor",
+        "imageUrl":"5wjs.jpg",
+        "tags":["jumpsuit"," grey","women jumpsuit","v neck","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.4 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's V-Neck Full Sleeve Embellished Asymmetric jumpsuit ",
+        "price": 1698,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" marron",
+        "imageUrl":"6wjs.jpg",
+        "tags":["jumpsuit"," maroon","women jumpsuit","v neck","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.5,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Short Sleeve Full Leg Printed Rayon Jumpsuit ",
+        "price": 1305,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"orange ",
+        "imageUrl":"7wjs.jpg",
+        "tags":["jumpsuit"," orange","women jumpsuit","v neck","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Women's Mandarin collar Full Sleeves Cheetah Print ",
+        "price": 699,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"navy blue ",
+        "imageUrl":"8wjs.jpg",
+        "tags":["jumpsuit","blue ","women jumpsuit","relaxed fit ","full sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":"Miss Chase Women's Wine V-Neck Sleeveless Solid Wrap Regular Jumpsuit ",
+        "price": 999,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":"green ",
+        "imageUrl":"9wjs.jpg",
+        "tags":["jumpsuit"," green","women jumpsuit","v neck"," sleeveless"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.2 ,
+        "season":["Spring","winter"]
+    },
+    {
+        "name":" WOMEN JUMPSUIT",
+        "price": 449,
+        "description":"women jumpsuit",
+        "category":["jumpsuits","clothing"],
+        "color":" blue",
+        "imageUrl":"10wjs.jpg",
+        "tags":["jumpsuit"," blue","women jumpsuit","round neck","half sleeves"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.2,
+        "season":["Spring","winter"]
+    }
+,
+    {
+        "name":"Gautam Enterprise Women's Shoes for Gym Training,casual wear ",
+        "price":  499,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" baby pink",
+        "imageUrl":"1ws.jpg",
+        "tags":["shoes","pink  ","cotton","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Womens Harper WNS Sneaker",
+        "price": 2000 ,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":"light pink ",
+        "imageUrl":"2ws.jpg",
+        "tags":["shoes"," pink ","cotton","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Women's Sports & Outdoor Running Shoes ",
+        "price": 349 ,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" black",
+        "imageUrl":"3ws.jpg",
+        "tags":["shoes"," black ","cotton","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":3.0 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Womens N Walk Calm Black Sneaker - 6 UK  ",
+        "price":  1004,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" black",
+        "imageUrl":"4ws.jpg",
+        "tags":["shoes","black  ","cotton","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Women's Running Shoes Beige",
+        "price":  720,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" pink",
+        "imageUrl":"5ws.jpg",
+        "tags":["shoes","pink  ","cotton","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Womens Womens Quest 5Running Shoe",
+        "price":  5099,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" light pink",
+        "imageUrl":"6ws.jpg",
+        "tags":["shoes","  pink","nylon","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":"Womens W Air Max Bella Tr 5 Training Shoe ",
+        "price":  4999,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" cream",
+        "imageUrl":"7ws.jpg",
+        "tags":["shoes"," cream ","nylon","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating":4.5 ,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Womens WMNS City Rep Tr Running Shoe",
+        "price":  3700,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":"pink ",
+        "imageUrl":"8ws.jpg",
+        "tags":["shoes"," pink ","nylon","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Women's APAC Halo W Tennis Shoe",
+        "price":  4740,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":"grey ",
+        "imageUrl":"9ws.jpg",
+        "tags":["shoes"," grey ","nylon","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 4.0,
+        "season":["Spring","winter","summer"]
+    },
+    {
+        "name":" Women's Textile Slip-On Lightweight shoes",
+        "price":  499,
+        "description":"Women shoes",
+        "category":["shoes","footwear"],
+        "color":" sky blue",
+        "imageUrl":"10ws.jpg",
+        "tags":["shoes"," blue ","nylon","women shoes","running shoe"],
+        
+        "size":"S,M,L,XL,2XL",
+        "rating": 3.5,
+        "season":["Spring","winter","summer"]
+    }
+    ,
+    {
+        "name":"Xtore Beautiful Finish Uniquely Hand Crafted Home Dcor African Tribal Women Art Piece ",
+        "price": 890,
+        "description":"Home decor art piece",
+        "category":["Home decor ","accessories "],
+        "color":"black & yellow ",
+        "imageUrl":"1t.jpg",
+        "tags":["black ","yellow ","home decor ","art ", "style","decoration","trending"],
+        
+        
+        "rating":4.2 ,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Next In Crafts Prety littile Golden and Gold Modern Head Vase Statue Planter Pot,Greek Bust Head Flower Vase,Resin,Lady Face Pots for Plants Decoration Black ",
+        "price": 1499,
+        "description":" Home decor art piece",
+        "category":["Home decor ","accessories "],
+        "color":"golden ",
+        "imageUrl":"2t.jpg",
+        "tags":["golden ","home decor ","art ", "style","decoration","beautiful","trending"],
+        
+        
+        "rating": 4.1,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"trending Cameo 6 Step Heavy Duty Foldable Metal Step Ladder with Anti-Skid Shoes and Extra Strong Wide Steps ",
+        "price": 3099,
+        "description":"Foldable Metal Step Ladder with Anti-Skid Shoes ",
+        "category":["home equipment","tools "],
+        "color":"black ",
+        "imageUrl":"3t.jpg",
+        "tags":["black ","home equipment ","tools ","ladder ", " metal","trending"],
+        
+        
+        "rating":4.3 ,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Amazon Brand - Solimo Fruit Plastic Basket Set ",
+        "price": 249,
+        "description":"Plastic Basket ",
+        "category":["basket ","home equipment"],
+        "color":"pink ",
+        "imageUrl":"4t.jpg",
+        "tags":["pink ","home equipment ","basket ","plastic ","trending"],
+        
+        
+        "rating": 3.5,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"KELVEE Moving Sand Art Picture Glass Liquid Painting 3D Natural Landscape showpieces for Home Decor Antique Gifts for Kids Office Desktop Decoration Desk Table Decorative Items ",
+        "price": 699,
+        "description":"paintings ",
+        "category":[" painting","Home decor "],
+        "color":"orange ",
+        "imageUrl":"5t.jpg",
+        "tags":["orange ","home decor ","art ", "style","decoration","beautiful","paintings","trending"],
+        
+        
+        "rating": 4.5,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":" amazon basics 15-in-1 Multi-Tool Pocket Knife with Nylon Sheath",
+        "price": 540,
+        "description":"Pocket Knife ",
+        "category":["home equipment","tools "],
+        "color":"black ",
+        "imageUrl":"6t.jpg",
+        "tags":[" black","home equipment","tools ","nylon ", "knife ","trending"],
+        
+        
+        "rating":4.2 ,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":" SKYTONE 7 Pices Kitchen Gadget Set Copper Coated Stainless Steel Utensils with Soft Touch Blue Handles Kitchen Tools",
+        "price": 1499,
+        "description":"Stainless Steel Utensils ",
+        "category":["home equipment","tools "],
+        "color":"green ",
+        "imageUrl":"7t.jpg",
+        "tags":["green ","home equipment","tools ", " soft","trending"],
+        
+        
+        "rating":4.1 ,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":" Amazon Brand - INKAST Men's Cotton Solid Full Sleeve Slim Fit Casual Shirt",
+        "price": 849,
+        "description":"Casual Shirt ",
+        "category":["Mens shirt ","clothing "],
+        "color":"navy ",
+        "imageUrl":"8t.jpg",
+        "tags":["blue ","Mens shirt ","shirt ","slim fit ", "casual ","trending"],
+        
+        
+        "rating": 3.9,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Amazon Brand - Jam & Honey Boy's Blended Hooded Sweatshirt - Cuddle Up in Playful Comfort with These Long Sleeve Which are Super Soft & Fun for All Day Adventures! ",
+        "price": 349,
+        "description":" Blended Hooded Sweatshirt",
+        "category":["Mens shirt ","clothing "],
+        "color":"black & red",
+        "imageUrl":"9t.jpg",
+        "tags":["black ","red ","Mens shirt "," soft","trending"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":" Amazon Brand - Solimo Rain & Dust Cover for Backpack",
+        "price":199 ,
+        "description":"Backpack ",
+        "category":["backpack ","home equipment"],
+        "color":"black ",
+        "imageUrl":"10t.jpg",
+        "tags":["black ","home equipment ","backpack ","trending"],
+        
+        
+        "rating":3.8 ,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"SAKI trending Whiskey Glasses Set of 2 | Heavy Base & Stylish Design | Perfect for Scotch, Mixed Drinks, Wine, Bourbon, Juice, Water and Cocktail Drinks 300 ML ",
+        "price": 449,
+        "description":"Whiskey Glasses Set  ",
+        "category":["home equipment","glasses "],
+        "color":"clear ",
+        "imageUrl":"11t.jpg",
+        "tags":["clear ","home equipment ","glasses ","trending"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Hexafun Unisex Crew Length Socks - 100% Organic Pure Soft Cotton | Multicolor & trending Printed Socks | Suitable for Daily Use | Airy Comfort ",
+        "price": 1299,
+        "description":"socks ",
+        "category":["socks ","home equipment"],
+        "color":"mutlicolor ",
+        "imageUrl":"12t.jpg",
+        "tags":["multicolor ","socks ","home equipment","trending"],
+        
+        
+        "rating": 4.1,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"MARKRICH Men's trending Polo Neck Half Sleeve Solid Regular Fit Polo Shirt ",
+        "price": 599,
+        "description":"Solid Regular Fit Polo Shirt ",
+        "category":["Mens shirt ","clothing "],
+        "color":"pink ",
+        "imageUrl":"13t.jpg",
+        "tags":["pink ","Mens shirt ","clothing ", "regular","half sleeve","trending"],
+        
+        
+        "rating": 3.8,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":" Genie Miami Backpacks for Women, 14 inch, Stylish and trending Casual College Backpacks for Girls, Water Resistant and Lightweight Bag for Office and Travelling",
+        "price": 599,
+        "description":"Backpack ",
+        "category":["backpack ","accessories "],
+        "color":"pink ",
+        "imageUrl":"14t.jpg",
+        "tags":["pink ","backpack ","accessories ","style", "casual ","trending"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"SATYAM KRAFT trending Sunglasses for Men, Women | Round, Square, Latest and Stylish Frame Goggles Vintage fashion | Suitabel for Boys, Girls, Driving,Eye Protection ",
+        "price": 199,
+        "description":"Stylish Frame Goggles ",
+        "category":["goggles ","accessories "],
+        "color":"black ",
+        "imageUrl":"15t.jpg",
+        "tags":["black ","goggles ","accessories ", "style","trending"],
+        
+        
+        "rating": 4.5,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Expert Bags Sling Bag for Women and Girls Stylish with floral Print - Gift for Ladies and Girls ",
+        "price": 549,
+        "description":" Sling bag",
+        "category":["sling bag ","accessories "],
+        "color":"brown ",
+        "imageUrl":"16t.jpg",
+        "tags":["brown ","sling bag ","accessories ", "style","trending"],
+        
+        
+        "rating":3.9 ,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Milton Kool trending 500 Plastic Insulated Water Bottle with Straw for Kids, 490 ml, Orange | School Bottle | Picnic Bottle | Sipper Bottle | Leak Proof | BPA Free | Food Grade | Easy to Carry ",
+        "price": 190,
+        "description":"Plastic Insulated Water Bottle with Straw ",
+        "category":["water bottle ","home equipment"],
+        "color":"yellow ",
+        "imageUrl":"17t.jpg",
+        "tags":[" yellow","water bottle ","home equipment","trending"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Yashika Women's trending Faux Georgette Multi Color Saree with Blouse Material (Bollywood Pink) Multicolour ",
+        "price": 389,
+        "description":"saree ",
+        "category":["Women saree ","clothing "],
+        "color":"mutlicolor ",
+        "imageUrl":"18t.jpg",
+        "tags":["multicolor ","Women saree ","clothing ", "comfort ","trending"],
+        
+        
+        "rating": 3.7,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"Fastrack Trendies Analog Pink Dial Women's Watch-68015PP03/NP68015PP03 ",
+        "price": 1377,
+        "description":"Classic Watch ",
+        "category":["watches ","accessories "],
+        "color":"pink ",
+        "imageUrl":"19t.jpg",
+        "tags":["pink ","watches ","accessories ","style","trending"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    },
+    {
+        "name":"40 Pcs Hair Scrunchies Velvet Elastic Hair Bands Scrunchies Hair Ties Ropes Scrunchies for Women or Girls Simple Charm Style Hair Accessories by trending Club ",
+        "price": 209,
+        "description":" Srunchies",
+        "category":["scrunchies ","accessories "],
+        "color":"mutlicolor ",
+        "imageUrl":"20t.jpg",
+        "tags":["multicolor ","scrunchies ","accessories ", "hair tie ","trending"],
+        
+        
+        "rating": 5.0,
+        "season":["Spring","winter","summer"],
+        "trending":true
+    }
+  ,
+    {
+        "name":"Indigo Summer 2 Piece Set (Sheet and Skirt)-Aqua & Green ",
+        "price": 549,
+        "description":"2 piece set ",
+        "category":["sofa ","home decor "],
+        "color":"green ",
+        "imageUrl":"1na.jpg",
+        "tags":[" green","sofa ","home decor ","wooden ","newarrivel"],
+        
+        
+        "rating": 3.5,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"Shunya New SH-621 Arrival Stylish Attractive Ethnic Stylish Roman Numbers Dial Watch Leather Strap Analog Girl's Watch ",
+        "price": 299,
+        "description":"Ethinc watch ",
+        "category":["watches ","accessories "],
+        "color":"white ",
+        "imageUrl":"2na.jpg",
+        "tags":["white ","watches ","accessories ", "ethinic","style ","newarrivel"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"SWORNOF Women's Banarasi Patola Silk Blend Saree with Blouse Piece ",
+        "price": 999,
+        "description":"women saree ",
+        "category":["womens saree ","clothing "],
+        "color":"yellow ",
+        "imageUrl":"3na.jpg",
+        "tags":["yellow ","womens saree ","clothing ", "style","traditional ","newarrivel"],
+        
+        
+        "rating":4.0 ,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"SWORNOF Womens Organza Woven Designer Saree with Unstitched Blouse With Boluse Piece ",
+        "price": 1999,
+        "description":"women saree ",
+        "category":["womens saree ","clothing "],
+        "color":"pink ",
+        "imageUrl":"4na.jpg",
+        "tags":["pink ","womens saree ","clothing ", "style","traditional ","newarrivel"],
+        
+        
+        "rating": 4.3,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"SWORNOF Womens Kanjivaram Soft Silk Saree Patola saree With Blouse Piece ",
+        "price": 999,
+        "description":"women saree ",
+        "category":["womens saree ","clothing "],
+        "color":"pink ",
+        "imageUrl":"5na.jpg",
+        "tags":["pink ","womens saree ","clothing ", "style","traditional ","newarrivel"],
+        
+        
+        "rating": 4.1,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"SWORNOF Women's Kanjivaram Banarasi Silk Patola Woven Design Saree With Unstitched Blouse Piece ",
+        "price": 1199,
+        "description":"women saree ",
+        "category":["womens saree ","clothing "],
+        "color":" purple",
+        "imageUrl":"6na.jpg",
+        "tags":["purple ","womens saree ","clothing ", "style","traditional "," ","newarrivel"],
+        
+        
+        "rating": 4.7,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"SWORNOF Womens Kanjivaram Banarasi Silk Saree Kanchipuram Patola saree ",
+        "price": 999,
+        "description":"women saree ",
+        "category":["womens saree ","clothing "],
+        "color":"pink ",
+        "imageUrl":"7na.jpg",
+        "tags":["pink ","womens saree ","clothing ", "style","traditional ","newarrivel"],
+        
+        
+        "rating": 4.2,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"New Arrivals Picket Fence Crib Blanket- Aqua & Khaki ",
+        "price": 4779,
+        "description":"crib Blanket ",
+        "category":["blanket ","home decor "],
+        "color":"khakhi ",
+        "imageUrl":"8na.jpg",
+        "tags":["white ","blanket ","home decor ", "soft","newarrivel"],
+        
+        
+        "rating":3.4 ,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"ASIAN Men's Carbon-02 Sports Running,Walking & Gym Shoes with Carbon Cushion Technology Phylon Sole with Memory Form Casual Sneaker ",
+        "price": 1320,
+        "description":"Sneakers ",
+        "category":["sneakers ","accessories "],
+        "color":"grey ",
+        "imageUrl":"9na.jpg",
+        "tags":["grey ","sneakers ","accessories ", "casual","newarrivel"],
+        
+        
+        "rating": 3.9,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    },
+    {
+        "name":"Acnos® Premium Black Round Diamond Dial with Latest Generation Purple & Rosegold Magnet Belt Analogue Watch for Women Pack of - 2 (DM-PURPLE-ROSEGOLD05) ",
+        "price": 370,
+        "description":"watches ",
+        "category":["watches ","accessories "],
+        "color":"black & golden ",
+        "imageUrl":"10na.jpg",
+        "tags":["black & golden ","watches ","accessories ", "style ","newarrivel"],
+        
+        
+        "rating": 4.1,
+        "season":["Spring","winter","summer"],
+        "newarrivel":true
+    }
+  ]

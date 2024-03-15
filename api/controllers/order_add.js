@@ -4,6 +4,7 @@ const jwt= require('jsonwebtoken');
 
 
 exports.add_order=(req,res,next)=>{
+    const {item} = req.body;
     const order = new Order({
         orderNumber:new mongoose.Types.ObjectId(),
         customerId:req.userdata.customerid,

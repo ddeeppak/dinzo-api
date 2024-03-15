@@ -9,6 +9,7 @@ const orderSchema = new mongoose.Schema({
   customerId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: 'Customer',
+    unique:true,
     required: true
   },
   orderDate: {
@@ -16,6 +17,7 @@ const orderSchema = new mongoose.Schema({
     default: Date.now
   },
   items: [{
+    
     product: String,
     quantity: Number,
     price: Number
